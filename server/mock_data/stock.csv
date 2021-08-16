@@ -1,0 +1,1001 @@
+stock_id,stock_name,market,market_cap,sector,industry,symbol
+61128c47fc13ae5a9d000064,KKR Income Opportunities Fund,NYSE,$271.7M,n/a,n/a,KIO
+61128c47fc13ae5a9d000065,Banco Santander Chile,NYSE,$11.96B,Finance,Commercial Banks,BSAC
+61128c47fc13ae5a9d000066,"Communications Systems, Inc.",NASDAQ,$42.39M,Public Utilities,Telecommunications Equipment,JCS
+61128c47fc13ae5a9d000067,Hershey Company (The),NYSE,$23.8B,Consumer Non-Durables,Specialty Foods,HSY
+61128c47fc13ae5a9d000068,Arbor Realty Trust,NYSE,n/a,n/a,n/a,ABR^A
+61128c47fc13ae5a9d000069,Wells Fargo & Company,NYSE,$269.31B,Finance,Major Banks,WFC
+61128c47fc13ae5a9d00006a,Six Flags Entertainment Corporation New,NYSE,$5.29B,Consumer Services,Services-Misc. Amusement & Recreation,SIX
+61128c47fc13ae5a9d00006b,Eaton Vance Corporation,NYSE,$1.22B,n/a,n/a,ETW
+61128c47fc13ae5a9d00006c,"Cornerstone OnDemand, Inc.",NASDAQ,$2.09B,Technology,Computer Software: Prepackaged Software,CSOD
+61128c47fc13ae5a9d00006d,Redhill Biopharma Ltd.,NASDAQ,$146.7M,Health Care,Major Pharmaceuticals,RDHL
+61128c47fc13ae5a9d00006e,EPR Properties,NYSE,n/a,n/a,n/a,EPR^F
+61128c47fc13ae5a9d00006f,First Trust Large Cap Core AlphaDEX Fund,NASDAQ,$1.55B,n/a,n/a,FEX
+61128c47fc13ae5a9d000070,"Electro-Sensors, Inc.",NASDAQ,$14.09M,Capital Goods,Industrial Machinery/Components,ELSE
+61128c47fc13ae5a9d000071,"Tanger Factory Outlet Centers, Inc.",NYSE,$2.49B,Consumer Services,Real Estate Investment Trusts,SKT
+61128c47fc13ae5a9d000072,ITUS Corporation,NASDAQ,$14.36M,Miscellaneous,Multi-Sector Companies,ITUS
+61128c47fc13ae5a9d000073,Eagle Bulk Shipping Inc.,NASDAQ,$332.73M,Transportation,Marine Transportation,EGLE
+61128c47fc13ae5a9d000074,"Bancorp 34, Inc.",NASDAQ,$47.36M,Finance,Savings Institutions,BCTF
+61128c47fc13ae5a9d000075,"Escalade, Incorporated",NASDAQ,$182.92M,Consumer Non-Durables,Recreational Products/Toys,ESCA
+61128c47fc13ae5a9d000076,Azure Power Global Limited,NYSE,$408.18M,Public Utilities,Electric Utilities: Central,AZRE
+61128c47fc13ae5a9d000077,"SilverSun Technologies, Inc.",NASDAQ,$16.12M,Miscellaneous,Business Services,SSNT
+61128c47fc13ae5a9d000078,SemiLEDS Corporation,NASDAQ,$9.54M,Technology,Semiconductors,LEDS
+61128c47fc13ae5a9d000079,Triangle Capital Corporation,NYSE,n/a,n/a,n/a,TCCB
+61128c47fc13ae5a9d00007a,"Capricor Therapeutics, Inc.",NASDAQ,$15.82M,Health Care,Major Pharmaceuticals,CAPR
+61128c47fc13ae5a9d00007b,"BSB Bancorp, Inc.",NASDAQ,$292.59M,Finance,Major Banks,BLMT
+61128c47fc13ae5a9d00007c,"Forest City Realty Trust, Inc.",NYSE,n/a,n/a,n/a,FCE.A
+61128c47fc13ae5a9d00007d,"Taylor Devices, Inc.",NASDAQ,$47.56M,Capital Goods,Industrial Machinery/Components,TAYD
+61128c47fc13ae5a9d00007e,"JD.com, Inc.",NASDAQ,$54.18B,Consumer Services,Other Specialty Stores,JD
+61128c47fc13ae5a9d00007f,Zhaopin Limited,NYSE,$1.02B,Technology,Professional Services,ZPIN
+61128c47fc13ae5a9d000080,Ivy NextShares,NASDAQ,n/a,n/a,n/a,IVENC
+61128c47fc13ae5a9d000081,"TJX Companies, Inc. (The)",NYSE,$46.6B,Consumer Services,Clothing/Shoe/Accessory Stores,TJX
+61128c47fc13ae5a9d000082,Renesola Ltd.,NYSE,$49.79M,Technology,Semiconductors,SOL
+61128c47fc13ae5a9d000083,Prudential Public Limited Company,NYSE,n/a,n/a,n/a,PUK^
+61128c48fc13ae5a9d000084,CoreSite Realty Corporation,NYSE,n/a,n/a,n/a,COR^A
+61128c48fc13ae5a9d000085,"Healthcare Trust of America, Inc.",NYSE,$6.36B,Consumer Services,Real Estate Investment Trusts,HTA
+61128c48fc13ae5a9d000086,"Gibraltar Industries, Inc.",NASDAQ,$1.1B,Capital Goods,Steel/Iron Ore,ROCK
+61128c48fc13ae5a9d000087,KKR & Co. L.P.,NYSE,n/a,n/a,n/a,KKR^A
+61128c48fc13ae5a9d000088,"Cogent Communications Holdings, Inc.",NASDAQ,$1.85B,Consumer Services,Telecommunications Equipment,CCOI
+61128c48fc13ae5a9d000089,Great Elm Capital Corp.,NASDAQ,n/a,n/a,n/a,FULLL
+61128c48fc13ae5a9d00008a,"M I Acquisitions, Inc.",NASDAQ,$71.22M,Finance,Business Services,MACQ
+61128c48fc13ae5a9d00008b,Colonial Intermediate High Income Fund,NYSE,$58.2M,n/a,n/a,CIF
+61128c48fc13ae5a9d00008c,"A-Mark Precious Metals, Inc.",NASDAQ,$112.5M,Basic Industries,Other Specialty Stores,AMRK
+61128c48fc13ae5a9d00008d,"Douglas Dynamics, Inc.",NYSE,$689.02M,Capital Goods,Construction/Ag Equipment/Trucks,PLOW
+61128c48fc13ae5a9d00008e,CyberArk Software Ltd.,NASDAQ,$1.67B,Technology,Computer Software: Prepackaged Software,CYBR
+61128c48fc13ae5a9d00008f,Momo Inc.,NASDAQ,$7.27B,Technology,Computer Software: Prepackaged Software,MOMO
+61128c48fc13ae5a9d000090,"Cal-Maine Foods, Inc.",NASDAQ,$1.81B,Consumer Non-Durables,Farming/Seeds/Milling,CALM
+61128c48fc13ae5a9d000091,Prospect Capital Corporation,NYSE,n/a,n/a,n/a,PBB
+61128c48fc13ae5a9d000092,"Sigma Designs, Inc.",NASDAQ,$221.54M,Technology,Semiconductors,SIGM
+61128c48fc13ae5a9d000093,Colony Starwood Homes,NYSE,$4.37B,Consumer Services,Real Estate Investment Trusts,SFR
+61128c48fc13ae5a9d000094,"Verastem, Inc.",NASDAQ,$74.72M,Health Care,Major Pharmaceuticals,VSTM
+61128c48fc13ae5a9d000095,Calamos Global Total Return Fund,NASDAQ,$111.57M,n/a,n/a,CGO
+61128c48fc13ae5a9d000096,"Mitcham Industries, Inc.",NASDAQ,$54.28M,Technology,Diversified Commercial Services,MIND
+61128c48fc13ae5a9d000097,First Trust NASDAQ Smartphone Index Fund,NASDAQ,$14.95M,n/a,n/a,FONE
+61128c48fc13ae5a9d000098,TIM Participacoes S.A.,NYSE,$6.97B,Public Utilities,Telecommunications Equipment,TSU
+61128c48fc13ae5a9d000099,BancFirst Corporation,NASDAQ,$1.58B,Finance,Major Banks,BANF
+61128c48fc13ae5a9d00009a,The Community Financial Corporation,NASDAQ,$181.04M,Finance,Major Banks,TCFC
+61128c48fc13ae5a9d00009b,"International Seaways, Inc.",NYSE,$580.97M,Consumer Services,Marine Transportation,INSW
+61128c48fc13ae5a9d00009c,Vanguard Global ex-U.S. Real Estate ETF,NASDAQ,$4.39B,n/a,n/a,VNQI
+61128c48fc13ae5a9d00009d,Entergy Corporation,NYSE,$14.36B,Public Utilities,Electric Utilities: Central,ETR
+61128c48fc13ae5a9d00009e,"Tarena International, Inc.",NASDAQ,$1.03B,Consumer Services,Other Consumer Services,TEDU
+61128c48fc13ae5a9d00009f,"Maximus, Inc.",NYSE,$4.13B,Miscellaneous,Business Services,MMS
+61128c48fc13ae5a9d0000a0,Dividend and Income Fund,NYSE,$130.45M,n/a,n/a,DNI
+61128c48fc13ae5a9d0000a1,X-Links Silver Shares Covered Call ETN,NASDAQ,$7.07M,Finance,Investment Bankers/Brokers/Service,SLVO
+61128c48fc13ae5a9d0000a2,"Electro Scientific Industries, Inc.",NASDAQ,$269.2M,Miscellaneous,Industrial Machinery/Components,ESIO
+61128c48fc13ae5a9d0000a3,RadiSys Corporation,NASDAQ,$147.15M,Technology,Computer peripheral equipment,RSYS
+61128c48fc13ae5a9d0000a4,People's Utah Bancorp,NASDAQ,$474.2M,Finance,Major Banks,PUB
+61128c48fc13ae5a9d0000a5,"Colony NorthStar, Inc.",NYSE,n/a,n/a,n/a,CLNS^G
+61128c48fc13ae5a9d0000a6,Gabelli NextShares Trust,NASDAQ,n/a,n/a,n/a,FOANC
+61128c48fc13ae5a9d0000a7,"SGOCO Group, Ltd",NASDAQ,$12.16M,Technology,Radio And Television Broadcasting And Communications Equipment,SGOC
+61128c48fc13ae5a9d0000a8,"Pinnacle Entertainment, Inc.",NASDAQ,$1.16B,Consumer Services,Hotels/Resorts,PNK
+61128c48fc13ae5a9d0000a9,Eaton Vance Municipal Income Trust,NYSE,$341.72M,n/a,n/a,EOT
+61128c48fc13ae5a9d0000aa,"Axon Enterprise, Inc.",NASDAQ,$1.34B,Capital Goods,Ordnance And Accessories,AAXN
+61128c48fc13ae5a9d0000ab,Wipro Limited,NYSE,$23.74B,Technology,EDP Services,WIT
+61128c48fc13ae5a9d0000ac,"Qorvo, Inc.",NASDAQ,$9.12B,Technology,Semiconductors,QRVO
+61128c48fc13ae5a9d0000ad,"Entergy Louisiana, Inc.",NYSE,n/a,Public Utilities,Electric Utilities: Central,ELU
+61128c48fc13ae5a9d0000ae,General Motors Company,NYSE,$51.8B,Capital Goods,Auto Manufacturing,GM
+61128c48fc13ae5a9d0000af,Guggenheim Credit Allocation Fund,NYSE,$161.51M,n/a,n/a,GGM
+61128c48fc13ae5a9d0000b0,"Tarena International, Inc.",NASDAQ,$1.03B,Consumer Services,Other Consumer Services,TEDU
+61128c48fc13ae5a9d0000b1,Colfax Corporation,NYSE,$4.88B,Capital Goods,Fluid Controls,CFX
+61128c48fc13ae5a9d0000b2,DTE Energy Company,NYSE,$19.95B,Public Utilities,Electric Utilities: Central,DTE
+61128c48fc13ae5a9d0000b3,Vanguard Russell 2000 Growth ETF,NASDAQ,$184.64M,n/a,n/a,VTWG
+61128c48fc13ae5a9d0000b4,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ,NYSE,$323.86M,Transportation,Marine Transportation,GNK
+61128c48fc13ae5a9d0000b5,Asia Pacific Wire & Cable Corporation Limited,NASDAQ,$39.39M,Basic Industries,Telecommunications Equipment,APWC
+61128c48fc13ae5a9d0000b6,Berkshire Hathaway Inc.,NYSE,n/a,n/a,n/a,BRK.A
+61128c48fc13ae5a9d0000b7,Renren Inc.,NYSE,$420.27M,Technology,EDP Services,RENN
+61128c48fc13ae5a9d0000b8,Kornit Digital Ltd.,NASDAQ,$643.74M,Capital Goods,Industrial Machinery/Components,KRNT
+61128c48fc13ae5a9d0000b9,U.S. Energy Corp.,NASDAQ,$4.6M,Energy,Oil & Gas Production,USEG
+61128c48fc13ae5a9d0000ba,Artisan Partners Asset Management Inc.,NYSE,$2.24B,Finance,Investment Managers,APAM
+61128c48fc13ae5a9d0000bb,Medallion Financial Corp.,NASDAQ,$55.6M,Finance,Finance: Consumer Services,MFIN
+61128c48fc13ae5a9d0000bc,"AmeriGas Partners, L.P.",NYSE,$4.27B,Consumer Services,Other Specialty Stores,APU
+61128c48fc13ae5a9d0000bd,"Civista Bancshares, Inc. ",NASDAQ,n/a,Finance,Major Banks,CIVBP
+61128c48fc13ae5a9d0000be,CYREN Ltd.,NASDAQ,$80.33M,Technology,Computer Software: Prepackaged Software,CYRN
+61128c48fc13ae5a9d0000bf,Gramercy Property Trust,NYSE,$4.59B,Consumer Services,Real Estate Investment Trusts,GPT
+61128c48fc13ae5a9d0000c0,Diana Shipping inc.,NYSE,$390.56M,Transportation,Marine Transportation,DSX
+61128c48fc13ae5a9d0000c1,"Lake Shore Bancorp, Inc.",NASDAQ,$97.19M,Finance,Savings Institutions,LSBK
+61128c48fc13ae5a9d0000c2,Phillips 66 Partners LP,NYSE,$5.04B,Energy,Natural Gas Distribution,PSXP
+61128c48fc13ae5a9d0000c3,Eldorado Gold Corporation,NYSE,$1.97B,Basic Industries,Precious Metals,EGO
+61128c48fc13ae5a9d0000c4,DDR Corp.,NYSE,n/a,n/a,n/a,DDR^K
+61128c48fc13ae5a9d0000c5,"Texas Capital Bancshares, Inc.",NASDAQ,$155.4M,Finance,Major Banks,TCBIP
+61128c48fc13ae5a9d0000c6,First Foundation Inc.,NASDAQ,$543.15M,Finance,Major Banks,FFWM
+61128c48fc13ae5a9d0000c7,"PDF Solutions, Inc.",NASDAQ,$527.78M,Technology,EDP Services,PDFS
+61128c48fc13ae5a9d0000c8,WildHorse Resource Development Corporation,NYSE,$1.21B,Energy,Oil & Gas Production,WRD
+61128c48fc13ae5a9d0000c9,First Trust Strategic High Income Fund II,NYSE,$112.34M,n/a,n/a,FHY
+61128c48fc13ae5a9d0000ca,Hess Midstream Partners LP,NYSE,$1.17B,Energy,Oil & Gas Production,HESM
+61128c48fc13ae5a9d0000cb,Nuveen High Income 2020 Target Term Fund,NYSE,$296.92M,n/a,n/a,JHA
+61128c48fc13ae5a9d0000cc,PowerShares DWA Healthcare Momentum Portfolio,NASDAQ,$61.7M,n/a,n/a,PTH
+61128c48fc13ae5a9d0000cd,Blackrock MuniHoldings Investment Quality Fund,NYSE,$556.34M,n/a,n/a,MFL
+61128c48fc13ae5a9d0000ce,"Sanderson Farms, Inc.",NASDAQ,$2.88B,Consumer Non-Durables,Meat/Poultry/Fish,SAFM
+61128c48fc13ae5a9d0000cf,Blackrock MuniYield Investment Fund,NYSE,$217.64M,n/a,n/a,MYF
+61128c48fc13ae5a9d0000d0,Kemper Corporation,NYSE,$2.05B,Finance,Property-Casualty Insurers,KMPR
+61128c48fc13ae5a9d0000d1,"Global Brass and Copper Holdings, Inc.",NYSE,$675.15M,Capital Goods,Metal Fabrications,BRSS
+61128c48fc13ae5a9d0000d2,"Barnes Group, Inc.",NYSE,$3.16B,Capital Goods,Metal Fabrications,B
+61128c48fc13ae5a9d0000d3,"SK Telecom Co., Ltd.",NYSE,$15.23B,Public Utilities,Telecommunications Equipment,SKM
+61128c48fc13ae5a9d0000d4,State Bank Financial Corporation.,NASDAQ,$1.04B,Finance,Major Banks,STBZ
+61128c48fc13ae5a9d0000d5,"SunTrust Banks, Inc.",NYSE,$27.15B,Finance,Major Banks,STI
+61128c48fc13ae5a9d0000d6,"Franklin Financial Network, Inc.",NYSE,$541.39M,Finance,Major Banks,FSB
+61128c48fc13ae5a9d0000d7,Pentair plc.,NYSE,$12.15B,Technology,Industrial Machinery/Components,PNR
+61128c48fc13ae5a9d0000d8,"Equus Total Return, Inc.",NYSE,$30.96M,n/a,n/a,EQS
+61128c48fc13ae5a9d0000d9,"Aeglea BioTherapeutics, Inc.",NASDAQ,$47.08M,Health Care,Major Pharmaceuticals,AGLE
+61128c48fc13ae5a9d0000da,"Interface, Inc.",NASDAQ,$1.22B,Consumer Durables,Home Furnishings,TILE
+61128c48fc13ae5a9d0000db,Royal Bank Scotland plc (The),NYSE,n/a,n/a,n/a,RBS^L
+61128c48fc13ae5a9d0000dc,Nordson Corporation,NASDAQ,$6.78B,Capital Goods,Industrial Machinery/Components,NDSN
+61128c48fc13ae5a9d0000dd,The First of Long Island Corporation,NASDAQ,$665.88M,Finance,Major Banks,FLIC
+61128c48fc13ae5a9d0000de,"Industrias Bachoco, S.A. de C.V.",NYSE,$2.86B,Consumer Non-Durables,Meat/Poultry/Fish,IBA
+61128c48fc13ae5a9d0000df,"SmartFinancial, Inc.",NASDAQ,$201.19M,Finance,Major Banks,SMBK
+61128c48fc13ae5a9d0000e0,"Timberland Bancorp, Inc.",NASDAQ,$177.78M,Finance,Banks,TSBK
+61128c48fc13ae5a9d0000e1,Hovnanian Enterprises Inc,NYSE,$340.42M,Capital Goods,Homebuilding,HOV
+61128c48fc13ae5a9d0000e2,"Freightcar America, Inc.",NASDAQ,$212.14M,Capital Goods,Railroads,RAIL
+61128c48fc13ae5a9d0000e3,AAR Corp.,NYSE,$1.21B,Capital Goods,Aerospace,AIR
+61128c48fc13ae5a9d0000e4,Enel Americas S.A.,NYSE,$10.9B,Public Utilities,Electric Utilities: Central,ENIA
+61128c48fc13ae5a9d0000e5,"SMART Global Holdings, Inc.",NASDAQ,$316.82M,Technology,Semiconductors,SGH
+61128c48fc13ae5a9d0000e6,Constellation Brands Inc,NYSE,n/a,n/a,n/a,STZ.B
+61128c48fc13ae5a9d0000e7,SBA Communications Corporation,NASDAQ,$16.14B,Consumer Services,Real Estate Investment Trusts,SBAC
+61128c48fc13ae5a9d0000e8,"Aemetis, Inc",NASDAQ,$29.54M,Basic Industries,Major Chemicals,AMTX
+61128c48fc13ae5a9d0000e9,iPath US Treasury 5-year Bear ETN,NASDAQ,$1.25M,Finance,Commercial Banks,DFVS
+61128c48fc13ae5a9d0000ea,Liberty Media Corporation,NASDAQ,n/a,Consumer Services,Broadcasting,LSXMB
+61128c48fc13ae5a9d0000eb,"Sanderson Farms, Inc.",NASDAQ,$2.88B,Consumer Non-Durables,Meat/Poultry/Fish,SAFM
+61128c48fc13ae5a9d0000ec,"Meridian Waste Solutions, Inc",NASDAQ,$21.66M,Basic Industries,Miscellaneous,MRDN
+61128c48fc13ae5a9d0000ed,United States Steel Corporation,NYSE,$3.52B,Basic Industries,Steel/Iron Ore,X
+61128c48fc13ae5a9d0000ee,Kite Realty Group Trust,NYSE,$1.57B,Consumer Services,Real Estate Investment Trusts,KRG
+61128c48fc13ae5a9d0000ef,KNOT Offshore Partners LP,NYSE,$702.27M,Consumer Services,Marine Transportation,KNOP
+61128c48fc13ae5a9d0000f0,Reading International Inc,NASDAQ,$367M,Consumer Services,Movies/Entertainment,RDI
+61128c48fc13ae5a9d0000f1,ChinaCache International Holdings Ltd.,NASDAQ,$34.01M,Technology,EDP Services,CCIH
+61128c48fc13ae5a9d0000f2,Puma Biotechnology Inc,NASDAQ,$2.88B,Health Care,Major Pharmaceuticals,PBYI
+61128c48fc13ae5a9d0000f3,"ADDvantage Technologies Group, Inc.",NASDAQ,$16.61M,Consumer Services,Office Equipment/Supplies/Services,AEY
+61128c48fc13ae5a9d0000f4,"SB Financial Group, Inc.",NASDAQ,n/a,Finance,Major Banks,SBFGP
+61128c48fc13ae5a9d0000f5,Public Storage,NYSE,n/a,Consumer Services,Real Estate Investment Trusts,PSA^T
+61128c48fc13ae5a9d0000f6,Bank of America Corporation,NYSE,$233.17B,Finance,Major Banks,BAC
+61128c48fc13ae5a9d0000f7,National Energy Services Reunited Corp.,NASDAQ,n/a,Finance,Business Services,NESRW
+61128c48fc13ae5a9d0000f8,Regency Centers Corporation,NYSE,n/a,n/a,n/a,REG^G
+61128c48fc13ae5a9d0000f9,"Warrior Met Coal, Inc.",NYSE,$847.88M,Energy,Coal Mining,HCC
+61128c48fc13ae5a9d0000fa,AGNC Investment Corp.,NASDAQ,$7.3B,Consumer Services,Real Estate Investment Trusts,AGNC
+61128c48fc13ae5a9d0000fb,"Reinsurance Group of America, Incorporated",NYSE,$8.29B,Finance,Life Insurance,RGA
+61128c48fc13ae5a9d0000fc,"B. Riley Financial, Inc.",NASDAQ,$410.14M,Miscellaneous,Business Services,RILY
+61128c48fc13ae5a9d0000fd,"Strata Skin Sciences, Inc.",NASDAQ,$6.36M,Health Care,Medical/Dental Instruments,SSKN
+61128c48fc13ae5a9d0000fe,First Trust NASDAQ Clean Edge Green Energy Index Fund,NASDAQ,$61.17M,n/a,n/a,QCLN
+61128c48fc13ae5a9d0000ff,"Proofpoint, Inc.",NASDAQ,$3.82B,Technology,EDP Services,PFPT
+61128c48fc13ae5a9d000100,"Honda Motor Company, Ltd.",NYSE,$50.21B,Capital Goods,Auto Manufacturing,HMC
+61128c48fc13ae5a9d000101,Boulevard Acquisition Corp. II,NASDAQ,n/a,Finance,Business Services,BLVDW
+61128c48fc13ae5a9d000102,Nuveen Michigan Quality Municipal Income Fund,NYSE,$286.36M,n/a,n/a,NUM
+61128c48fc13ae5a9d000103,"Adamas Pharmaceuticals, Inc.",NASDAQ,$391.07M,Health Care,Major Pharmaceuticals,ADMS
+61128c48fc13ae5a9d000104,Eaton Vance Tax-Managed Buy-Write Income Fund,NYSE,$404.02M,n/a,n/a,ETB
+61128c48fc13ae5a9d000105,Caesarstone Ltd.,NASDAQ,$1.17B,Capital Goods,Building Materials,CSTE
+61128c48fc13ae5a9d000106,Christopher & Banks Corporation,NYSE,$48.91M,Consumer Services,Clothing/Shoe/Accessory Stores,CBK
+61128c48fc13ae5a9d000107,Partner Communications Company Ltd.,NASDAQ,$828.02M,Public Utilities,Telecommunications Equipment,PTNR
+61128c48fc13ae5a9d000108,"Five Prime Therapeutics, Inc.",NASDAQ,$809.46M,Health Care,Major Pharmaceuticals,FPRX
+61128c48fc13ae5a9d000109,Novogen Limited,NASDAQ,$16.59M,Health Care,Major Pharmaceuticals,NVGN
+61128c48fc13ae5a9d00010a,"Pioneer Power Solutions, Inc.",NASDAQ,$56.68M,Consumer Durables,Electrical Products,PPSI
+61128c48fc13ae5a9d00010b,"Barnes & Noble Education, Inc",NYSE,$478.88M,Consumer Services,Other Specialty Stores,BNED
+61128c48fc13ae5a9d00010c,"Wecast Network, Inc.",NASDAQ,$130.02M,Consumer Services,Television Services,WCST
+61128c48fc13ae5a9d00010d,Glaukos Corporation,NYSE,$1.39B,Health Care,Medical/Dental Instruments,GKOS
+61128c48fc13ae5a9d00010e,"USANA Health Sciences, Inc.",NYSE,$1.6B,Consumer Durables,Specialty Chemicals,USNA
+61128c48fc13ae5a9d00010f,Biglari Holdings Inc.,NYSE,$842.99M,Consumer Services,Restaurants,BH
+61128c48fc13ae5a9d000110,"Office Depot, Inc.",NASDAQ,$2.81B,Consumer Services,Other Specialty Stores,ODP
+61128c48fc13ae5a9d000111,"Triumph Bancorp, Inc.",NASDAQ,$428.18M,Finance,Major Banks,TBK
+61128c48fc13ae5a9d000112,Ingredion Incorporated,NYSE,$8.52B,Consumer Non-Durables,Packaged Foods,INGR
+61128c48fc13ae5a9d000113,"BroadVision, Inc.",NASDAQ,$21.6M,Technology,Computer Software: Prepackaged Software,BVSN
+61128c48fc13ae5a9d000114,"United States Lime & Minerals, Inc.",NASDAQ,$432.95M,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),USLM
+61128c48fc13ae5a9d000115,"American Financial Group, Inc.",NYSE,n/a,n/a,n/a,AFW.CL
+61128c48fc13ae5a9d000116,AMREP Corporation,NYSE,$56.38M,Consumer Services,Newspapers/Magazines,AXR
+61128c48fc13ae5a9d000117,VEON Ltd.,NASDAQ,$6.59B,Public Utilities,Telecommunications Equipment,VEON
+61128c48fc13ae5a9d000118,Public Service Enterprise Group Incorporated,NYSE,$22.49B,Public Utilities,Power Generation,PEG
+61128c48fc13ae5a9d000119,Nuveen Massachusetts Municipal Income Fund,NYSE,$128.91M,n/a,n/a,NMT
+61128c48fc13ae5a9d00011a,Bright Scholar Education Holdings Limited,NYSE,$1.38B,Consumer Services,Other Consumer Services,BEDU
+61128c48fc13ae5a9d00011b,Riverview Bancorp Inc,NASDAQ,$148.35M,Finance,Savings Institutions,RVSB
+61128c48fc13ae5a9d00011c,"Summit Hotel Properties, Inc.",NYSE,n/a,n/a,n/a,INN^C
+61128c48fc13ae5a9d00011d,"Sensus Healthcare, Inc.",NASDAQ,$52.75M,Health Care,Medical/Dental Instruments,SRTS
+61128c48fc13ae5a9d00011e,"Silicon Laboratories, Inc.",NASDAQ,$3B,Technology,Semiconductors,SLAB
+61128c48fc13ae5a9d00011f,"Boston Private Financial Holdings, Inc.",NASDAQ,n/a,Finance,Major Banks,BPFHP
+61128c48fc13ae5a9d000120,Brightcove Inc.,NASDAQ,$213.5M,Technology,EDP Services,BCOV
+61128c48fc13ae5a9d000121,Old Point Financial Corporation,NASDAQ,$150.3M,Finance,Major Banks,OPOF
+61128c48fc13ae5a9d000122,On Track Innovations Ltd,NASDAQ,$51.37M,Technology,Semiconductors,OTIV
+61128c48fc13ae5a9d000123,"Connecticut Water Service, Inc.",NASDAQ,$663.37M,Public Utilities,Water Supply,CTWS
+61128c48fc13ae5a9d000124,BiondVax Pharmaceuticals Ltd.,NASDAQ,n/a,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),BVXVW
+61128c48fc13ae5a9d000125,Lehman ABS Corporation,NYSE,n/a,Finance,Finance: Consumer Services,KTN
+61128c48fc13ae5a9d000126,Redhill Biopharma Ltd.,NASDAQ,$146.7M,Health Care,Major Pharmaceuticals,RDHL
+61128c48fc13ae5a9d000127,JM Global Holding Company,NASDAQ,$65.43M,Finance,Business Services,WYIG
+61128c48fc13ae5a9d000128,Zion Oil & Gas Inc,NASDAQ,$99.51M,Energy,Oil & Gas Production,ZN
+61128c48fc13ae5a9d000129,NeoPhotonics Corporation,NYSE,$382.11M,Technology,Semiconductors,NPTN
+61128c48fc13ae5a9d00012a,"PS Business Parks, Inc.",NYSE,n/a,n/a,n/a,PSB^T
+61128c48fc13ae5a9d00012b,Student Transportation Inc,NASDAQ,$562.64M,Transportation,Other Transportation,STB
+61128c48fc13ae5a9d00012c,Seanergy Maritime Holdings Corp,NASDAQ,n/a,Transportation,Marine Transportation,SHIPW
+61128c48fc13ae5a9d00012d,Enduro Royalty Trust,NYSE,$113.85M,Energy,Oil & Gas Production,NDRO
+61128c48fc13ae5a9d00012e,The Priceline Group Inc. ,NASDAQ,$88.58B,Miscellaneous,Business Services,PCLN
+61128c48fc13ae5a9d00012f,Pitney Bowes Inc.,NYSE,n/a,n/a,n/a,PBI^B
+61128c48fc13ae5a9d000130,"Spark Energy, Inc.",NASDAQ,$806.93M,Public Utilities,Power Generation,SPKE
+61128c48fc13ae5a9d000131,Nuveen Municipal High Income Opportunity Fund,NYSE,$794.98M,n/a,n/a,NMZ
+61128c48fc13ae5a9d000132,FlexShares Real Assets Allocation Index Fund,NASDAQ,$3.49M,n/a,n/a,ASET
+61128c48fc13ae5a9d000133,California Water  Service Group Holding,NYSE,$1.8B,Public Utilities,Water Supply,CWT
+61128c48fc13ae5a9d000134,The Gabelli Healthcare & Wellness Trust,NYSE,$208.41M,n/a,n/a,GRX
+61128c48fc13ae5a9d000135,"Heritage-Crystal Clean, Inc.",NASDAQ,$325.53M,Basic Industries,Miscellaneous,HCCI
+61128c48fc13ae5a9d000136,"Exponent, Inc.",NASDAQ,$1.53B,Consumer Services,Professional Services,EXPO
+61128c48fc13ae5a9d000137,"Delcath Systems, Inc.",NASDAQ,$8.33M,Health Care,Medical/Dental Instruments,DCTH
+61128c48fc13ae5a9d000138,"Berry Global Group, Inc.",NYSE,$7.48B,Consumer Non-Durables,Plastic Products,BERY
+61128c48fc13ae5a9d000139,"Ruby Tuesday, Inc.",NYSE,$133.85M,Consumer Services,Restaurants,RT
+61128c48fc13ae5a9d00013a,Getty Realty Corporation,NYSE,$896.38M,Finance,Real Estate,GTY
+61128c48fc13ae5a9d00013b,"Advanced Drainage Systems, Inc.",NYSE,$1.13B,Capital Goods,Containers/Packaging,WMS
+61128c48fc13ae5a9d00013c,Abercrombie & Fitch Company,NYSE,$852.24M,Consumer Services,Clothing/Shoe/Accessory Stores,ANF
+61128c48fc13ae5a9d00013d,"Piedmont Office Realty Trust, Inc.",NYSE,$3.1B,Consumer Services,Building operators,PDM
+61128c48fc13ae5a9d00013e,Bank of N.T. Butterfield & Son Limited (The),NYSE,$1.9B,Finance,Commercial Banks,NTB
+61128c48fc13ae5a9d00013f,Booz Allen Hamilton Holding Corporation,NYSE,$4.72B,Consumer Services,Professional Services,BAH
+61128c48fc13ae5a9d000140,"Virtus Investment Partners, Inc.",NASDAQ,n/a,Finance,Investment Managers,VRTSP
+61128c48fc13ae5a9d000141,"United Natural Foods, Inc.",NASDAQ,$1.79B,Consumer Non-Durables,Food Distributors,UNFI
+61128c48fc13ae5a9d000142,Brookfield Global Listed Infrastructure Income Fund,NYSE,$188.64M,n/a,n/a,INF
+61128c48fc13ae5a9d000143,PetroChina Company Limited,NYSE,$116.38B,Energy,Oil & Gas Production,PTR
+61128c48fc13ae5a9d000144,Koppers Holdings Inc.,NYSE,$716.78M,Basic Industries,Forest Products,KOP
+61128c48fc13ae5a9d000145,Global X Internet of Things ETF,NASDAQ,n/a,n/a,n/a,SNSR
+61128c48fc13ae5a9d000146,"Charles River Laboratories International, Inc.",NYSE,$4.56B,Health Care,Biotechnology: Commercial Physical & Biological Resarch,CRL
+61128c48fc13ae5a9d000147,First Trust Japan AlphaDEX Fund,NASDAQ,$57.72M,n/a,n/a,FJP
+61128c48fc13ae5a9d000148,"Aclaris Therapeutics, Inc.",NASDAQ,$681.44M,Health Care,Major Pharmaceuticals,ACRS
+61128c48fc13ae5a9d000149,INVESCO MORTGAGE CAPITAL INC,NYSE,$1.9B,Consumer Services,Real Estate Investment Trusts,IVR
+61128c48fc13ae5a9d00014a,"Twenty-First Century Fox, Inc.",NASDAQ,$33.51B,Consumer Services,Television Services,FOXA
+61128c48fc13ae5a9d00014b,Discover Financial Services,NYSE,n/a,n/a,n/a,DFS^B
+61128c48fc13ae5a9d00014c,First Trust RiverFront Dynamic Europe ETF,NASDAQ,$52.66M,n/a,n/a,RFEU
+61128c48fc13ae5a9d00014d,"Loxo Oncology, Inc.",NASDAQ,$1.89B,Health Care,Major Pharmaceuticals,LOXO
+61128c48fc13ae5a9d00014e,"Urban One, Inc. ",NASDAQ,$106.3M,Consumer Services,Broadcasting,UONE
+61128c48fc13ae5a9d00014f,"Juno Therapeutics, Inc.",NASDAQ,$2.47B,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),JUNO
+61128c48fc13ae5a9d000150,"Littelfuse, Inc.",NASDAQ,$3.69B,Consumer Durables,Electrical Products,LFUS
+61128c48fc13ae5a9d000151,United States Steel Corporation,NYSE,$3.52B,Basic Industries,Steel/Iron Ore,X
+61128c48fc13ae5a9d000152,Blackrock Municipal 2020 Term Trust,NYSE,$320.35M,n/a,n/a,BKK
+61128c48fc13ae5a9d000153,AXT Inc,NASDAQ,$248.85M,Technology,Semiconductors,AXTI
+61128c48fc13ae5a9d000154,Balchem Corporation,NASDAQ,$2.56B,Basic Industries,Major Chemicals,BCPC
+61128c48fc13ae5a9d000155,"Kindred Healthcare, Inc.",NYSE,$907.72M,Health Care,Hospital/Nursing Management,KND
+61128c48fc13ae5a9d000156,National Holdings Corporation,NASDAQ,n/a,Finance,Investment Bankers/Brokers/Service,NHLDW
+61128c48fc13ae5a9d000157,GasLog LP.,NYSE,$1.14B,Consumer Services,Marine Transportation,GLOG
+61128c48fc13ae5a9d000158,St. Joe Company (The),NYSE,$1.26B,Consumer Services,Homebuilding,JOE
+61128c48fc13ae5a9d000159,The Gabelli Healthcare & Wellness Trust,NYSE,$208.41M,n/a,n/a,GRX
+61128c48fc13ae5a9d00015a,"Cypress Energy Partners, L.P.",NYSE,$84.93M,Energy,Oilfield Services/Equipment,CELP
+61128c48fc13ae5a9d00015b,National Energy Services Reunited Corp.,NASDAQ,n/a,Finance,Business Services,NESR
+61128c48fc13ae5a9d00015c,Cellect Biotechnology Ltd.,NASDAQ,n/a,n/a,n/a,APOPW
+61128c48fc13ae5a9d00015d,"Patrick Industries, Inc.",NASDAQ,$1.27B,Basic Industries,Forest Products,PATK
+61128c48fc13ae5a9d00015e,"Synthesis Energy Systems, Inc.",NASDAQ,$61.12M,Basic Industries,Major Chemicals,SYMX
+61128c48fc13ae5a9d00015f,Dreyfus High Yield Strategies Fund,NYSE,$255.93M,n/a,n/a,DHF
+61128c48fc13ae5a9d000160,Kearny Financial,NASDAQ,$1.27B,Finance,Savings Institutions,KRNY
+61128c48fc13ae5a9d000161,ChromaDex Corporation,NASDAQ,$153.95M,Consumer Durables,Specialty Chemicals,CDXC
+61128c48fc13ae5a9d000162,"Hudson Pacific Properties, Inc.",NYSE,$5.56B,Finance,Real Estate,HPP
+61128c48fc13ae5a9d000163,"Ritter Pharmaceuticals, Inc.",NASDAQ,$9.14M,Health Care,Major Pharmaceuticals,RTTR
+61128c48fc13ae5a9d000164,Texas Instruments Incorporated,NASDAQ,$79.41B,Technology,Semiconductors,TXN
+61128c48fc13ae5a9d000165,"Equity Lifestyle Properties, Inc.",NYSE,n/a,n/a,n/a,ELS^C
+61128c48fc13ae5a9d000166,"Juno Therapeutics, Inc.",NASDAQ,$2.47B,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),JUNO
+61128c48fc13ae5a9d000167,IBERIABANK Corporation,NASDAQ,n/a,Finance,Major Banks,IBKCO
+61128c48fc13ae5a9d000168,Primoris Services Corporation,NASDAQ,$1.27B,Basic Industries,Water Supply,PRIM
+61128c48fc13ae5a9d000169,"Watsco, Inc.",NYSE,n/a,n/a,n/a,WSO.B
+61128c48fc13ae5a9d00016a,Xcel Energy Inc.,NYSE,$24.27B,Public Utilities,Power Generation,XEL
+61128c48fc13ae5a9d00016b,Great Ajax Corp.,NYSE,$273.46M,Consumer Services,Real Estate Investment Trusts,AJX
+61128c48fc13ae5a9d00016c,Cincinnati Bell Inc,NYSE,n/a,n/a,n/a,CBB^B
+61128c48fc13ae5a9d00016d,"Royce Micro-Cap Trust, Inc.",NYSE,$323.02M,n/a,n/a,RMT
+61128c48fc13ae5a9d00016e,"Hennessy Advisors, Inc.",NASDAQ,$120.43M,Finance,Investment Managers,HNNA
+61128c48fc13ae5a9d00016f,Calamos Global Total Return Fund,NASDAQ,$111.57M,n/a,n/a,CGO
+61128c48fc13ae5a9d000170,Navistar International Corporation,NYSE,n/a,Capital Goods,Auto Manufacturing,NAV^D
+61128c48fc13ae5a9d000171,The Kraft Heinz Company,NASDAQ,$108.87B,Consumer Non-Durables,Packaged Foods,KHC
+61128c48fc13ae5a9d000172,"Hawaiian Electric Industries, Inc.",NYSE,n/a,n/a,n/a,HE^U
+61128c48fc13ae5a9d000173,"Rexford Industrial Realty, Inc.",NYSE,n/a,n/a,n/a,REXR^A
+61128c48fc13ae5a9d000174,"CB Financial Services, Inc.",NASDAQ,$110.17M,Finance,Major Banks,CBFV
+61128c48fc13ae5a9d000175,Voya International High Dividend Equity Income Fund,NYSE,$61.57M,n/a,n/a,IID
+61128c48fc13ae5a9d000176,Herc Holdings Inc.,NYSE,$1.06B,n/a,n/a,HRI
+61128c48fc13ae5a9d000177,Taro Pharmaceutical Industries Ltd.,NYSE,$4.57B,Health Care,Major Pharmaceuticals,TARO
+61128c48fc13ae5a9d000178,"Continental Resources, Inc.",NYSE,$12.39B,Energy,Oil & Gas Production,CLR
+61128c48fc13ae5a9d000179,TiVo Corporation,NASDAQ,$2.25B,Miscellaneous,Multi-Sector Companies,TIVO
+61128c48fc13ae5a9d00017a,Mesabi Trust,NYSE,$173.18M,Basic Industries,Precious Metals,MSB
+61128c48fc13ae5a9d00017b,"Goldman Sachs Group, Inc. (The)",NYSE,n/a,n/a,n/a,GS^J
+61128c48fc13ae5a9d00017c,"CYS Investments, Inc.",NYSE,n/a,n/a,n/a,CYS^A
+61128c48fc13ae5a9d00017d,"Independence Contract Drilling, Inc.",NYSE,$144.44M,Energy,Oil & Gas Production,ICD
+61128c48fc13ae5a9d00017e,Horizon Pharma plc,NASDAQ,$1.67B,Health Care,Major Pharmaceuticals,HZNP
+61128c48fc13ae5a9d00017f,Select Medical Holdings Corporation,NYSE,$1.88B,Health Care,Hospital/Nursing Management,SEM
+61128c48fc13ae5a9d000180,"Kindred Healthcare, Inc.",NYSE,$907.72M,Health Care,Hospital/Nursing Management,KND
+61128c48fc13ae5a9d000181,Methanex Corporation,NASDAQ,$3.63B,Basic Industries,Major Chemicals,MEOH
+61128c48fc13ae5a9d000182,"Northwest Bancshares, Inc.",NASDAQ,$1.65B,Finance,Major Banks,NWBI
+61128c48fc13ae5a9d000183,National Beverage Corp.,NASDAQ,$4.16B,Consumer Non-Durables,Beverages (Production/Distribution),FIZZ
+61128c48fc13ae5a9d000184,Legg Mason US Diversified Core ETF,NASDAQ,$3.08M,n/a,n/a,UDBI
+61128c48fc13ae5a9d000185,"Momenta Pharmaceuticals, Inc.",NASDAQ,$1.24B,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),MNTA
+61128c48fc13ae5a9d000186,Benitec Biopharma Limited,NASDAQ,$21.44M,Health Care,Major Pharmaceuticals,BNTC
+61128c48fc13ae5a9d000187,"MEI Pharma, Inc.",NASDAQ,$73.91M,Health Care,Major Pharmaceuticals,MEIP
+61128c48fc13ae5a9d000188,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc",NYSE,$763.43M,n/a,n/a,LDP
+61128c48fc13ae5a9d000189,Toll Brothers Inc.,NYSE,$6.3B,Capital Goods,Homebuilding,TOL
+61128c48fc13ae5a9d00018a,Equitable Financial Corp.,NASDAQ,$35.01M,Finance,Savings Institutions,EQFN
+61128c48fc13ae5a9d00018b,Sanchez Energy Corporation,NYSE,$618.24M,Energy,Oil & Gas Production,SN
+61128c48fc13ae5a9d00018c,Nam Tai Property Inc.,NYSE,$280.64M,Finance,Real Estate,NTP
+61128c48fc13ae5a9d00018d,"Foot Locker, Inc.",NYSE,$6.83B,Consumer Services,Clothing/Shoe/Accessory Stores,FL
+61128c48fc13ae5a9d00018e,eHi Car Services Limited,NYSE,$698.89M,Consumer Services,Rental/Leasing Companies,EHIC
+61128c48fc13ae5a9d00018f,"Ashford Hospitality Prime, Inc.",NYSE,n/a,n/a,n/a,AHP^B
+61128c48fc13ae5a9d000190,"TriState Capital Holdings, Inc.",NASDAQ,$702.5M,Finance,Major Banks,TSC
+61128c48fc13ae5a9d000191,"Eleven Biotherapeutics, Inc.",NASDAQ,$34.58M,Health Care,Major Pharmaceuticals,EBIO
+61128c48fc13ae5a9d000192,UMB Financial Corporation,NASDAQ,$3.68B,Finance,Major Banks,UMBF
+61128c48fc13ae5a9d000193,Old National Bancorp,NASDAQ,$2.34B,Finance,Major Banks,ONB
+61128c48fc13ae5a9d000194,"Bonanza Creek Energy, Inc.",NYSE,$636.43M,Energy,Oil & Gas Production,BCEI
+61128c48fc13ae5a9d000195,CSP Inc.,NASDAQ,$42.78M,Technology,EDP Services,CSPI
+61128c48fc13ae5a9d000196,S&P Global Inc.,NYSE,$38.28B,Finance,Finance: Consumer Services,SPGI
+61128c48fc13ae5a9d000197,"Templeton Global Income Fund, Inc.",NYSE,$896.08M,n/a,n/a,GIM
+61128c48fc13ae5a9d000198,"Liberty TripAdvisor Holdings, Inc.",NASDAQ,$858.79M,Technology,EDP Services,LTRPA
+61128c48fc13ae5a9d000199,"National Security Group, Inc.",NASDAQ,$37M,Finance,Life Insurance,NSEC
+61128c48fc13ae5a9d00019a,Invesco Mortgage Capital Inc.,NYSE,n/a,n/a,n/a,IVR^A
+61128c48fc13ae5a9d00019b,"AmTrust Financial Services, Inc.",NYSE,n/a,Finance,Property-Casualty Insurers,AFST
+61128c48fc13ae5a9d00019c,"Cedar Realty Trust, Inc.",NYSE,$440.65M,Consumer Services,Real Estate Investment Trusts,CDR
+61128c48fc13ae5a9d00019d,Axis Capital Holdings Limited,NYSE,n/a,n/a,n/a,AXS^D
+61128c48fc13ae5a9d00019e,Allstate Corporation (The),NYSE,n/a,n/a,n/a,ALL^B
+61128c48fc13ae5a9d00019f,"Dollar Tree, Inc.",NASDAQ,$16.58B,Consumer Services,Department/Specialty Retail Stores,DLTR
+61128c48fc13ae5a9d0001a0,Brookfield Business Partners L.P.,NYSE,$1.4B,Basic Industries,Engineering & Construction,BBU
+61128c48fc13ae5a9d0001a1,CPB Inc.,NYSE,$967.78M,Finance,Major Banks,CPF
+61128c48fc13ae5a9d0001a2,Kilroy Realty Corporation,NYSE,n/a,n/a,n/a,KRC^H
+61128c48fc13ae5a9d0001a3,"Columbia Property Trust, Inc.",NYSE,$2.67B,Consumer Services,Real Estate Investment Trusts,CXP
+61128c48fc13ae5a9d0001a4,Zions Bancorporation,NYSE,n/a,n/a,n/a,ZB^G
+61128c48fc13ae5a9d0001a5,Osisko Gold Royalties Ltd,NYSE,$1.28B,Basic Industries,Precious Metals,OR
+61128c48fc13ae5a9d0001a6,Ituran Location and Control Ltd.,NASDAQ,$731.26M,Consumer Non-Durables,Electronic Components,ITRN
+61128c48fc13ae5a9d0001a7,BHP Billiton Limited,NYSE,$92.34B,Basic Industries,Precious Metals,BHP
+61128c48fc13ae5a9d0001a8,"Taubman Centers, Inc.",NYSE,n/a,n/a,n/a,TCO^J
+61128c48fc13ae5a9d0001a9,Bridgford Foods Corporation,NASDAQ,$130.25M,Consumer Non-Durables,Specialty Foods,BRID
+61128c48fc13ae5a9d0001aa,Capital Senior Living Corporation,NYSE,$473.87M,Health Care,Hospital/Nursing Management,CSU
+61128c48fc13ae5a9d0001ab,"LM Funding America, Inc.",NASDAQ,$13.56M,Finance,Finance: Consumer Services,LMFA
+61128c48fc13ae5a9d0001ac,Playa Hotels & Resorts N.V.,NASDAQ,$1.1B,Consumer Services,Hotels/Resorts,PLYA
+61128c48fc13ae5a9d0001ad,Sotherly Hotels Inc.,NASDAQ,$91.07M,Consumer Services,Real Estate Investment Trusts,SOHO
+61128c48fc13ae5a9d0001ae,"Wynn Resorts, Limited",NASDAQ,$13.76B,Consumer Services,Hotels/Resorts,WYNN
+61128c48fc13ae5a9d0001af,Royal Bank Scotland plc (The),NYSE,$37.92B,Finance,Commercial Banks,RBS
+61128c48fc13ae5a9d0001b0,"EastGroup Properties, Inc.",NYSE,$2.92B,Consumer Services,Real Estate Investment Trusts,EGP
+61128c48fc13ae5a9d0001b1,Chesapeake Utilities Corporation,NYSE,$1.23B,Public Utilities,Oil & Gas Production,CPK
+61128c48fc13ae5a9d0001b2,"Silver Spring Networks, Inc.",NYSE,$559.9M,Technology,Computer Communications Equipment,SSNI
+61128c48fc13ae5a9d0001b3,"Loxo Oncology, Inc.",NASDAQ,$1.89B,Health Care,Major Pharmaceuticals,LOXO
+61128c48fc13ae5a9d0001b4,Genetic Technologies Ltd,NASDAQ,$12.31M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),GENE
+61128c48fc13ae5a9d0001b5,"NextEra Energy, Inc.",NYSE,n/a,n/a,n/a,NEE^H
+61128c48fc13ae5a9d0001b6,"Aerie Pharmaceuticals, Inc.",NASDAQ,$1.8B,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),AERI
+61128c48fc13ae5a9d0001b7,"S&T Bancorp, Inc.",NASDAQ,$1.24B,Finance,Major Banks,STBA
+61128c48fc13ae5a9d0001b8,PowerShares Global Gold & Precious Metals Portfolio,NASDAQ,$36.8M,n/a,n/a,PSAU
+61128c48fc13ae5a9d0001b9,Two Harbors Investments Corp,NYSE,$3.62B,Consumer Services,Real Estate Investment Trusts,TWO
+61128c48fc13ae5a9d0001ba,Blue Bird Corporation,NASDAQ,$420.7M,Capital Goods,Construction/Ag Equipment/Trucks,BLBD
+61128c48fc13ae5a9d0001bb,Cerner Corporation,NASDAQ,$21.82B,Technology,EDP Services,CERN
+61128c48fc13ae5a9d0001bc,First Bancorp,NASDAQ,$768.07M,Finance,Major Banks,FBNC
+61128c48fc13ae5a9d0001bd,Nuveen Core Equity Alpha Fund,NYSE,$234.72M,n/a,n/a,JCE
+61128c48fc13ae5a9d0001be,CSP Inc.,NASDAQ,$42.78M,Technology,EDP Services,CSPI
+61128c48fc13ae5a9d0001bf,Apache Corporation,NYSE,$18.85B,Energy,Oil & Gas Production,APA
+61128c48fc13ae5a9d0001c0,Mercantile Bank Corporation,NASDAQ,$544.37M,Finance,Major Banks,MBWM
+61128c48fc13ae5a9d0001c1,"ONEOK Partners, L.P.",NYSE,$14.31B,Public Utilities,Natural Gas Distribution,OKS
+61128c48fc13ae5a9d0001c2,Pioneer Municipal High Income Trust,NYSE,$271.66M,n/a,n/a,MHI
+61128c48fc13ae5a9d0001c3,"BioScrip, Inc.",NASDAQ,$306.09M,Health Care,Medical/Nursing Services,BIOS
+61128c48fc13ae5a9d0001c4,"Syros Pharmaceuticals, Inc.",NASDAQ,$460.25M,Health Care,Major Pharmaceuticals,SYRS
+61128c48fc13ae5a9d0001c5,Fidelity and Guaranty Life,NYSE,$1.82B,Finance,Life Insurance,FGL
+61128c48fc13ae5a9d0001c6,John Hancock Income Securities Trust,NYSE,$170.51M,n/a,n/a,JHS
+61128c48fc13ae5a9d0001c7,"Halozyme Therapeutics, Inc.",NASDAQ,$1.9B,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),HALO
+61128c48fc13ae5a9d0001c8,Landmark Infrastructure Partners LP,NASDAQ,n/a,Consumer Services,Real Estate,LMRKO
+61128c48fc13ae5a9d0001c9,The Joint Corp.,NASDAQ,$48.27M,Miscellaneous,Multi-Sector Companies,JYNT
+61128c48fc13ae5a9d0001ca,Santander Consumer USA Holdings Inc.,NYSE,$4.15B,Finance,Finance: Consumer Services,SC
+61128c48fc13ae5a9d0001cb,"Southwest Bancorp, Inc.",NASDAQ,$474.65M,Finance,Major Banks,OKSB
+61128c48fc13ae5a9d0001cc,"Energy Transfer Partners, L.P.",NYSE,$26.27B,Energy,Natural Gas Distribution,ETP
+61128c48fc13ae5a9d0001cd,Blackrock MuniYield Investment Fund,NYSE,$217.64M,n/a,n/a,MYF
+61128c48fc13ae5a9d0001ce,Core Laboratories N.V.,NYSE,$4.72B,Energy,Oilfield Services/Equipment,CLB
+61128c48fc13ae5a9d0001cf,Aspen Insurance Holdings Limited,NYSE,n/a,n/a,n/a,AHL^C
+61128c48fc13ae5a9d0001d0,Bank of America Corporation,NYSE,n/a,n/a,n/a,BAC^L
+61128c48fc13ae5a9d0001d1,Vanda Pharmaceuticals Inc.,NASDAQ,$612.59M,Health Care,Major Pharmaceuticals,VNDA
+61128c48fc13ae5a9d0001d2,Perion Network Ltd,NASDAQ,$151.22M,Technology,EDP Services,PERI
+61128c48fc13ae5a9d0001d3,"Enanta Pharmaceuticals, Inc.",NASDAQ,$647.69M,Health Care,Major Pharmaceuticals,ENTA
+61128c48fc13ae5a9d0001d4,SLM Corporation,NASDAQ,$4.52B,Finance,Finance: Consumer Services,SLM
+61128c48fc13ae5a9d0001d5,"Telenav, Inc.",NASDAQ,$356.44M,Capital Goods,Industrial Machinery/Components,TNAV
+61128c48fc13ae5a9d0001d6,Pyxis Tankers Inc.,NASDAQ,$26.87M,Transportation,Marine Transportation,PXS
+61128c48fc13ae5a9d0001d7,"Equity Lifestyle Properties, Inc.",NYSE,n/a,n/a,n/a,ELS^C
+61128c48fc13ae5a9d0001d8,Plumas Bancorp,NASDAQ,$95.92M,Finance,Finance Companies,PLBC
+61128c48fc13ae5a9d0001d9,Gramercy Property Trust Inc.,NYSE,n/a,n/a,n/a,GPT^A
+61128c48fc13ae5a9d0001da,LRAD Corporation,NASDAQ,$51.2M,Consumer Non-Durables,Consumer Electronics/Appliances,LRAD
+61128c48fc13ae5a9d0001db,"Manitowoc Company, Inc. (The)",NYSE,$836.2M,Capital Goods,Construction/Ag Equipment/Trucks,MTW
+61128c48fc13ae5a9d0001dc,"Del Taco Restaurants, Inc.",NASDAQ,n/a,Consumer Services,Restaurants,TACOW
+61128c48fc13ae5a9d0001dd,"AutoNation, Inc.",NYSE,$4.08B,Consumer Durables,Automotive Aftermarket,AN
+61128c48fc13ae5a9d0001de,UroGen Pharma Ltd.,NASDAQ,$186.89M,Health Care,Major Pharmaceuticals,URGN
+61128c48fc13ae5a9d0001df,"Blackrock MuniYield California Fund, Inc.",NYSE,$326.9M,n/a,n/a,MYC
+61128c48fc13ae5a9d0001e0,"Stoneridge, Inc.",NYSE,$411.46M,Capital Goods,Auto Parts:O.E.M.,SRI
+61128c48fc13ae5a9d0001e1,Sprint Corporation,NYSE,$31.13B,Public Utilities,Telecommunications Equipment,S
+61128c48fc13ae5a9d0001e2,United States Cellular Corporation,NYSE,$3.3B,Public Utilities,Telecommunications Equipment,USM
+61128c48fc13ae5a9d0001e3,Forum Merger Corporation,NASDAQ,n/a,Finance,Business Services,FMCIW
+61128c48fc13ae5a9d0001e4,"Pain Therapeutics, Inc.",NASDAQ,$27.03M,Health Care,Major Pharmaceuticals,PTIE
+61128c48fc13ae5a9d0001e5,Eli Lilly and Company,NYSE,$90.35B,Health Care,Major Pharmaceuticals,LLY
+61128c48fc13ae5a9d0001e6,MainStay DefinedTerm Municipal Opportunities Fund,NYSE,$546.13M,n/a,n/a,MMD
+61128c48fc13ae5a9d0001e7,Cemex S.A.B. de C.V.,NYSE,$4.5B,Capital Goods,Building Materials,CX
+61128c48fc13ae5a9d0001e8,"Strayer Education, Inc.",NASDAQ,$1.04B,Consumer Services,Other Consumer Services,STRA
+61128c48fc13ae5a9d0001e9,Vipshop Holdings Limited,NYSE,$6.96B,Consumer Services,Catalog/Specialty Distribution,VIPS
+61128c48fc13ae5a9d0001ea,Vanguard Total International Bond ETF,NASDAQ,$7.54B,n/a,n/a,BNDX
+61128c48fc13ae5a9d0001eb,"MaxLinear, Inc",NYSE,$1.82B,Technology,Semiconductors,MXL
+61128c48fc13ae5a9d0001ec,United Therapeutics Corporation,NASDAQ,$5.85B,Health Care,Major Pharmaceuticals,UTHR
+61128c48fc13ae5a9d0001ed,"Coffee Holding Co., Inc.",NASDAQ,$25.61M,Consumer Non-Durables,Food Distributors,JVA
+61128c48fc13ae5a9d0001ee,"Legg Mason, Inc.",NYSE,n/a,Finance,Investment Managers,LMHB
+61128c48fc13ae5a9d0001ef,Blackstone GSO Long Short Credit Income Fund,NYSE,$207.43M,n/a,n/a,BGX
+61128c48fc13ae5a9d0001f0,Blue Bird Corporation,NASDAQ,$420.7M,Capital Goods,Construction/Ag Equipment/Trucks,BLBD
+61128c48fc13ae5a9d0001f1,Noah Holdings Ltd.,NYSE,$1.51B,Finance,Investment Managers,NOAH
+61128c48fc13ae5a9d0001f2,Gorman-Rupp Company (The),NYSE,$708.43M,Capital Goods,Fluid Controls,GRC
+61128c48fc13ae5a9d0001f3,Cherokee Inc.,NASDAQ,$94.54M,Consumer Non-Durables,Apparel,CHKE
+61128c48fc13ae5a9d0001f4,"Champions Oncology, Inc.",NASDAQ,$27.34M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),CSBR
+61128c48fc13ae5a9d0001f5,"Fusion Telecommunications International, Inc.",NASDAQ,$30.7M,Technology,Computer Software: Prepackaged Software,FSNN
+61128c48fc13ae5a9d0001f6,Global Eagle Entertainment Inc.,NASDAQ,$269.58M,Consumer Services,Telecommunications Equipment,ENT
+61128c48fc13ae5a9d0001f7,John Hancock Tax Advantaged Dividend Income Fund,NYSE,$901.61M,n/a,n/a,HTD
+61128c48fc13ae5a9d0001f8,Bill Barrett Corporation,NYSE,$252.54M,Energy,Oil & Gas Production,BBG
+61128c48fc13ae5a9d0001f9,"American Midstream Partners, LP",NYSE,$695.78M,Public Utilities,Natural Gas Distribution,AMID
+61128c48fc13ae5a9d0001fa,Wells Fargo & Company,NYSE,n/a,n/a,n/a,WFE^A
+61128c48fc13ae5a9d0001fb,"Rush Enterprises, Inc.",NASDAQ,$1.35B,Consumer Durables,Automotive Aftermarket,RUSHB
+61128c48fc13ae5a9d0001fc,Frontier Communications Corporation,NASDAQ,n/a,Public Utilities,Telecommunications Equipment,FTRPR
+61128c48fc13ae5a9d0001fd,Actuant Corporation,NYSE,$1.43B,Technology,Industrial Machinery/Components,ATU
+61128c48fc13ae5a9d0001fe,Lumos Networks Corp.,NASDAQ,$427.4M,Public Utilities,Telecommunications Equipment,LMOS
+61128c48fc13ae5a9d0001ff,First Trust South Korea AlphaDEX Fund,NASDAQ,$5.41M,n/a,n/a,FKO
+61128c48fc13ae5a9d000200,"United Bancshares, Inc.",NASDAQ,$69.91M,Finance,Major Banks,UBOH
+61128c48fc13ae5a9d000201,Fifth Third Bancorp,NASDAQ,$535.68M,Finance,Major Banks,FITBI
+61128c48fc13ae5a9d000202,Zymeworks Inc.,NYSE,$240.93M,Health Care,Major Pharmaceuticals,ZYME
+61128c48fc13ae5a9d000203,The9 Limited,NASDAQ,$28.19M,Miscellaneous,Business Services,NCTY
+61128c48fc13ae5a9d000204,"Kura Oncology, Inc.",NASDAQ,$170.17M,Health Care,Major Pharmaceuticals,KURA
+61128c48fc13ae5a9d000205,Ark Restaurants Corp.,NASDAQ,$85.01M,Consumer Services,Restaurants,ARKR
+61128c48fc13ae5a9d000206,"West Pharmaceutical Services, Inc.",NYSE,$7.06B,Basic Industries,Specialty Chemicals,WST
+61128c48fc13ae5a9d000207,Southern California Edison Company,NYSE,n/a,n/a,n/a,SCE^F
+61128c48fc13ae5a9d000208,Mid Penn Bancorp,NASDAQ,$114.75M,Finance,Major Banks,MPB
+61128c48fc13ae5a9d000209,Array BioPharma Inc.,NASDAQ,$1.28B,Health Care,Major Pharmaceuticals,ARRY
+61128c48fc13ae5a9d00020a,"Gray Television, Inc.",NYSE,$1.02B,Consumer Services,Broadcasting,GTN
+61128c48fc13ae5a9d00020b,"Miller Industries, Inc.",NYSE,$289.48M,Capital Goods,Construction/Ag Equipment/Trucks,MLR
+61128c48fc13ae5a9d00020c,Inpixon ,NASDAQ,$3.85M,Technology,EDP Services,INPX
+61128c48fc13ae5a9d00020d,"ANSYS, Inc.",NASDAQ,$10.41B,Technology,Computer Software: Prepackaged Software,ANSS
+61128c48fc13ae5a9d00020e,Newtek Business Services Corp.,NASDAQ,n/a,n/a,n/a,NEWTL
+61128c48fc13ae5a9d00020f,KLX Inc.,NASDAQ,$2.58B,Capital Goods,Aerospace,KLXI
+61128c48fc13ae5a9d000210,"Banco Latinoamericano de Comercio Exterior, S.A.",NYSE,$1.1B,Finance,Commercial Banks,BLX
+61128c48fc13ae5a9d000211,WPCS International Incorporated,NASDAQ,$4.79M,Consumer Services,Telecommunications Equipment,WPCS
+61128c48fc13ae5a9d000212,"Marinus Pharmaceuticals, Inc.",NASDAQ,$29.15M,Health Care,Major Pharmaceuticals,MRNS
+61128c48fc13ae5a9d000213,"Cardiovascular Systems, Inc.",NASDAQ,$1.02B,Health Care,Medical/Dental Instruments,CSII
+61128c48fc13ae5a9d000214,Athene Holding Ltd.,NYSE,$9.79B,Finance,Life Insurance,ATH
+61128c48fc13ae5a9d000215,Franklin Covey Company,NYSE,$279.93M,Consumer Services,Other Consumer Services,FC
+61128c48fc13ae5a9d000216,Blue Capital Reinsurance Holdings Ltd.,NYSE,$169.43M,Finance,Property-Casualty Insurers,BCRH
+61128c48fc13ae5a9d000217,Central European Media Enterprises Ltd.,NASDAQ,$613.79M,Consumer Services,Broadcasting,CETV
+61128c48fc13ae5a9d000218,Atlantic Alliance Partnership Corp.,NASDAQ,$37.43M,Consumer Services,Services-Misc. Amusement & Recreation,AAPC
+61128c48fc13ae5a9d000219,PowerShares DWA Developed Markets Momentum Portfolio,NASDAQ,$200.65M,n/a,n/a,PIZ
+61128c48fc13ae5a9d00021a,Snap Inc.,NYSE,$20.68B,Technology,"Computer Software: Programming, Data Processing",SNAP
+61128c48fc13ae5a9d00021b,Scotts Miracle-Gro Company (The),NYSE,$5.23B,Basic Industries,Agricultural Chemicals,SMG
+61128c48fc13ae5a9d00021c,PowerShares DWA Consumer Cyclicals Momentum Portfolio,NASDAQ,$58.53M,n/a,n/a,PEZ
+61128c48fc13ae5a9d00021d,"Pernix Therapeutics Holdings, Inc.",NASDAQ,$44.57M,Health Care,Major Pharmaceuticals,PTX
+61128c48fc13ae5a9d00021e,"Westar Energy, Inc.",NYSE,$7.62B,Public Utilities,Power Generation,WR
+61128c48fc13ae5a9d00021f,"America Movil, S.A.B. de C.V.",NYSE,$51.95B,Public Utilities,Telecommunications Equipment,AMOV
+61128c48fc13ae5a9d000220,Virtus Global Multi-Sector Income Fund,NYSE,$194.72M,n/a,n/a,VGI
+61128c48fc13ae5a9d000221,"GWG Holdings, Inc",NASDAQ,$60.75M,Finance,Life Insurance,GWGH
+61128c48fc13ae5a9d000222,iPath US Treasury 5-year Bear ETN,NASDAQ,$1.25M,Finance,Commercial Banks,DFVS
+61128c48fc13ae5a9d000223,First Trust High Yield Long/Short ETF,NASDAQ,$1.23B,n/a,n/a,HYLS
+61128c48fc13ae5a9d000224,Farmers Capital Bank Corporation,NASDAQ,$300.86M,Finance,Major Banks,FFKT
+61128c48fc13ae5a9d000225,Shore Bancshares Inc,NASDAQ,$215.57M,Finance,Major Banks,SHBI
+61128c48fc13ae5a9d000226,Farmer Brothers Company,NASDAQ,$517.13M,Consumer Non-Durables,Packaged Foods,FARM
+61128c48fc13ae5a9d000227,Urstadt Biddle Properties Inc.,NYSE,n/a,n/a,n/a,UBP^F
+61128c48fc13ae5a9d000228,"Four Corners Property Trust, Inc.",NYSE,$1.53B,Consumer Services,Real Estate Investment Trusts,FCPT
+61128c48fc13ae5a9d000229,Intercontinental Exchange Inc.,NYSE,$38.23B,Finance,Investment Bankers/Brokers/Service,ICE
+61128c48fc13ae5a9d00022a,Student Transportation Inc,NASDAQ,$562.64M,Transportation,Other Transportation,STB
+61128c48fc13ae5a9d00022b,"BroadSoft, Inc.",NASDAQ,$1.28B,Technology,Computer Software: Prepackaged Software,BSFT
+61128c48fc13ae5a9d00022c,Iron Mountain Incorporated,NYSE,$9.04B,Consumer Services,Real Estate Investment Trusts,IRM
+61128c48fc13ae5a9d00022d,"Mitcham Industries, Inc.",NASDAQ,n/a,Technology,Diversified Commercial Services,MINDP
+61128c48fc13ae5a9d00022e,"BioScrip, Inc.",NASDAQ,$306.09M,Health Care,Medical/Nursing Services,BIOS
+61128c48fc13ae5a9d00022f,VelocityShares Daily 2x VIX Short-Term ETN,NASDAQ,$198.29M,Finance,Investment Bankers/Brokers/Service,TVIX
+61128c48fc13ae5a9d000230,Stamps.com Inc.,NASDAQ,$2.49B,Miscellaneous,Business Services,STMP
+61128c48fc13ae5a9d000231,"Identiv, Inc.",NASDAQ,$59.21M,Technology,Computer peripheral equipment,INVE
+61128c48fc13ae5a9d000232,Schlumberger N.V.,NYSE,$95.29B,Energy,Oilfield Services/Equipment,SLB
+61128c48fc13ae5a9d000233,Macro Bank Inc.,NYSE,$5.07B,Finance,Commercial Banks,BMA
+61128c48fc13ae5a9d000234,Noah Holdings Ltd.,NYSE,$1.51B,Finance,Investment Managers,NOAH
+61128c48fc13ae5a9d000235,"Kura Oncology, Inc.",NASDAQ,$170.17M,Health Care,Major Pharmaceuticals,KURA
+61128c48fc13ae5a9d000236,Zumiez Inc.,NASDAQ,$316.23M,Consumer Services,Clothing/Shoe/Accessory Stores,ZUMZ
+61128c48fc13ae5a9d000237,"Dynex Capital, Inc.",NYSE,n/a,n/a,n/a,DX^A
+61128c48fc13ae5a9d000238,CF Corporation,NASDAQ,n/a,Finance,Business Services,CFCOW
+61128c48fc13ae5a9d000239,"Haverty Furniture Companies, Inc.",NYSE,n/a,n/a,n/a,HVT.A
+61128c48fc13ae5a9d00023a,Tennessee Valley Authority,NYSE,n/a,Public Utilities,Electric Utilities: Central,TVE
+61128c48fc13ae5a9d00023b,Fortuna Silver Mines Inc.,NYSE,$749.94M,Basic Industries,Precious Metals,FSM
+61128c48fc13ae5a9d00023c,"Maxim Integrated Products, Inc.",NASDAQ,$13.07B,Technology,Semiconductors,MXIM
+61128c48fc13ae5a9d00023d,Diversified Real Asset Income Fund,NYSE,$311.58M,n/a,n/a,DRA
+61128c48fc13ae5a9d00023e,FedEx Corporation,NYSE,$56.28B,Transportation,Air Freight/Delivery Services,FDX
+61128c48fc13ae5a9d00023f,"Cooper Companies, Inc. (The)",NYSE,$11.67B,Health Care,Ophthalmic Goods,COO
+61128c48fc13ae5a9d000240,"Veritone, Inc.",NASDAQ,$167.67M,Technology,EDP Services,VERI
+61128c48fc13ae5a9d000241,iShares Commodities Select Strategy ETF,NASDAQ,$195.63M,n/a,n/a,COMT
+61128c48fc13ae5a9d000242,"SunTrust Banks, Inc.",NYSE,$27.15B,Finance,Major Banks,STI
+61128c48fc13ae5a9d000243,"ModusLink Global Solutions, Inc",NASDAQ,$85M,Miscellaneous,Business Services,MLNK
+61128c48fc13ae5a9d000244,Teekay Tankers Ltd.,NYSE,$311.8M,Consumer Services,Marine Transportation,TNK
+61128c48fc13ae5a9d000245,Nuveen Georgia Quality Municipal Income Fund ,NYSE,$137.46M,n/a,n/a,NKG
+61128c48fc13ae5a9d000246,Gabelli Multi-Media Trust Inc. (The),NYSE,n/a,n/a,n/a,GGT^B
+61128c48fc13ae5a9d000247,"Scripps Networks Interactive, Inc",NASDAQ,$8.74B,Consumer Services,Television Services,SNI
+61128c48fc13ae5a9d000248,"MobileIron, Inc.",NASDAQ,$571.52M,Technology,Computer Software: Prepackaged Software,MOBL
+61128c48fc13ae5a9d000249,"Quanta Services, Inc.",NYSE,$4.75B,Capital Goods,Engineering & Construction,PWR
+61128c48fc13ae5a9d00024a,"AquaBounty Technologies, Inc.",NASDAQ,$69.92M,n/a,n/a,AQB
+61128c48fc13ae5a9d00024b,Humana Inc.,NYSE,$33.84B,Health Care,Medical Specialities,HUM
+61128c48fc13ae5a9d00024c,DNB Financial Corp,NASDAQ,$147.96M,Finance,Major Banks,DNBF
+61128c48fc13ae5a9d00024d,"GWG Holdings, Inc",NASDAQ,$60.75M,Finance,Life Insurance,GWGH
+61128c48fc13ae5a9d00024e,"M/I Homes, Inc.",NYSE,$681.36M,Capital Goods,Homebuilding,MHO
+61128c48fc13ae5a9d00024f,Kentucky First Federal Bancorp,NASDAQ,$81.49M,Finance,Savings Institutions,KFFB
+61128c48fc13ae5a9d000250,Resource Capital Corp.,NYSE,n/a,n/a,n/a,RSO^B
+61128c48fc13ae5a9d000251,"Heidrick & Struggles International, Inc.",NASDAQ,$407.51M,Technology,Diversified Commercial Services,HSII
+61128c48fc13ae5a9d000252,"Cohen & Steers Global Income Builder, Inc.",NYSE,$220.31M,n/a,n/a,INB
+61128c48fc13ae5a9d000253,"MACOM Technology Solutions Holdings, Inc.",NASDAQ,$3.57B,Technology,Semiconductors,MTSI
+61128c48fc13ae5a9d000254,"Guidance Software, Inc.",NASDAQ,$222.81M,Technology,Computer Software: Prepackaged Software,GUID
+61128c48fc13ae5a9d000255,Principal Millennials Index ETF,NASDAQ,$7.26M,n/a,n/a,GENY
+61128c48fc13ae5a9d000256,"WPX Energy, Inc.",NYSE,$3.64B,Energy,Oil & Gas Production,WPX
+61128c48fc13ae5a9d000257,Public Storage,NYSE,$37.14B,Consumer Services,Real Estate Investment Trusts,PSA
+61128c48fc13ae5a9d000258,AlphaMark Actively Managed Small Cap ETF,NASDAQ,$26.26M,n/a,n/a,SMCP
+61128c48fc13ae5a9d000259,National Holdings Corporation,NASDAQ,$34.45M,Finance,Investment Bankers/Brokers/Service,NHLD
+61128c48fc13ae5a9d00025a,Research Frontiers Incorporated,NASDAQ,$32.7M,Miscellaneous,Multi-Sector Companies,REFR
+61128c48fc13ae5a9d00025b,Devon Energy Corporation,NYSE,$16.7B,Energy,Oil & Gas Production,DVN
+61128c48fc13ae5a9d00025c,"Reven Housing REIT, Inc.",NASDAQ,$61.72M,Consumer Services,Real Estate Investment Trusts,RVEN
+61128c48fc13ae5a9d00025d,"Boot Barn Holdings, Inc.",NYSE,$184.25M,Consumer Services,Clothing/Shoe/Accessory Stores,BOOT
+61128c48fc13ae5a9d00025e,"Pfizer, Inc.",NYSE,$196.76B,Health Care,Major Pharmaceuticals,PFE
+61128c48fc13ae5a9d00025f,"NetApp, Inc.",NASDAQ,$10.29B,Technology,Electronic Components,NTAP
+61128c48fc13ae5a9d000260,Emerson Electric Company,NYSE,$39.11B,Energy,Consumer Electronics/Appliances,EMR
+61128c48fc13ae5a9d000261,"TrovaGene, Inc.",NASDAQ,$29.24M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),TROV
+61128c48fc13ae5a9d000262,SVB Financial Group,NASDAQ,n/a,Finance,Major Banks,SIVBO
+61128c48fc13ae5a9d000263,Unilever PLC,NYSE,$157.69B,Basic Industries,Package Goods/Cosmetics,UL
+61128c48fc13ae5a9d000264,Hess Corporation,NYSE,n/a,n/a,n/a,HES^A
+61128c48fc13ae5a9d000265,Alcoa Corporation,NYSE,$5.53B,Capital Goods,Metal Fabrications,AA
+61128c48fc13ae5a9d000266,Baozun Inc.,NASDAQ,$1.09B,Consumer Services,Catalog/Specialty Distribution,BZUN
+61128c48fc13ae5a9d000267,"China Customer Relations Centers, Inc.",NASDAQ,$276.59M,Miscellaneous,Business Services,CCRC
+61128c49fc13ae5a9d000268,"Dominion Energy, Inc.",NYSE,$50.77B,Public Utilities,Electric Utilities: Central,D
+61128c49fc13ae5a9d000269,PennyMac Mortgage Investment Trust,NYSE,$1.19B,Consumer Services,Real Estate Investment Trusts,PMT
+61128c49fc13ae5a9d00026a,"American Capital Senior Floating, Ltd.",NASDAQ,$125.5M,n/a,n/a,ACSF
+61128c49fc13ae5a9d00026b,"BioScrip, Inc.",NASDAQ,$306.09M,Health Care,Medical/Nursing Services,BIOS
+61128c49fc13ae5a9d00026c,"Safety Insurance Group, Inc.",NASDAQ,$1.06B,Finance,Property-Casualty Insurers,SAFT
+61128c49fc13ae5a9d00026d,"Stag Industrial, Inc.",NYSE,n/a,n/a,n/a,STAG^C
+61128c49fc13ae5a9d00026e,"Freshpet, Inc.",NASDAQ,$542.42M,Consumer Non-Durables,Packaged Foods,FRPT
+61128c49fc13ae5a9d00026f,Nova Measuring Instruments Ltd.,NASDAQ,$641.08M,Capital Goods,Electronic Components,NVMI
+61128c49fc13ae5a9d000270,RenaissanceRe Holdings Ltd.,NYSE,$5.77B,Finance,Property-Casualty Insurers,RNR
+61128c49fc13ae5a9d000271,Tuniu Corporation,NASDAQ,$1.04B,Consumer Services,Transportation Services,TOUR
+61128c49fc13ae5a9d000272,DDR Corp.,NYSE,n/a,n/a,n/a,DDR^K
+61128c49fc13ae5a9d000273,PartnerRe Ltd.,NYSE,n/a,n/a,n/a,PRE^I
+61128c49fc13ae5a9d000274,Hilton Worldwide Holdings Inc.,NYSE,$21.7B,Consumer Services,Hotels/Resorts,HLT
+61128c49fc13ae5a9d000275,YY Inc.,NASDAQ,$3.06B,Technology,EDP Services,YY
+61128c49fc13ae5a9d000276,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,NYSE,$3.1B,Technology,EDP Services,SAIC
+61128c49fc13ae5a9d000277,Shaw Communications Inc.,NYSE,$10.72B,Consumer Services,Television Services,SJR
+61128c49fc13ae5a9d000278,Kaiser Aluminum Corporation,NASDAQ,$1.47B,Capital Goods,Metal Fabrications,KALU
+61128c49fc13ae5a9d000279,Eagle Point Credit Company Inc.,NYSE,$369.43M,n/a,n/a,ECC           
+61128c49fc13ae5a9d00027a,Bel Fuse Inc.,NASDAQ,$312.96M,Capital Goods,Electrical Products,BELFB
+61128c49fc13ae5a9d00027b,"MDU Resources Group, Inc.",NYSE,$5.37B,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels),MDU
+61128c49fc13ae5a9d00027c,iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund,NASDAQ,$532.8M,n/a,n/a,IFGL
+61128c49fc13ae5a9d00027d,"Lennox International, Inc.",NYSE,$8.05B,Capital Goods,Industrial Machinery/Components,LII
+61128c49fc13ae5a9d00027e,Banner Corporation,NASDAQ,$1.89B,Finance,Major Banks,BANR
+61128c49fc13ae5a9d00027f,"Cal-Maine Foods, Inc.",NASDAQ,$1.81B,Consumer Non-Durables,Farming/Seeds/Milling,CALM
+61128c49fc13ae5a9d000280,"Agilysys, Inc.",NASDAQ,$223.07M,Technology,EDP Services,AGYS
+61128c49fc13ae5a9d000281,"Bellerophon Therapeutics, Inc.",NASDAQ,$43.74M,Health Care,Major Pharmaceuticals,BLPH
+61128c49fc13ae5a9d000282,MGE Energy Inc.,NASDAQ,$2.36B,Energy,Electric Utilities: Central,MGEE
+61128c49fc13ae5a9d000283,ENDRA Life Sciences Inc.,NASDAQ,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,NDRAU
+61128c49fc13ae5a9d000284,Novadaq Technologies Inc,NASDAQ,$346.82M,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,NVDQ
+61128c49fc13ae5a9d000285,1st Constitution Bancorp (NJ),NASDAQ,$136.87M,Finance,Savings Institutions,FCCY
+61128c49fc13ae5a9d000286,"Jernigan Capital, Inc.",NYSE,$238.7M,Consumer Services,Real Estate Investment Trusts,JCAP
+61128c49fc13ae5a9d000287,Annaly Capital Management Inc,NYSE,n/a,n/a,n/a,NLY^D
+61128c49fc13ae5a9d000288,Check Point Software Technologies Ltd.,NASDAQ,$18.26B,Technology,Computer Software: Prepackaged Software,CHKP
+61128c49fc13ae5a9d000289,"Energizer Holdings, Inc.",NYSE,$3.18B,Miscellaneous,Industrial Machinery/Components,ENR
+61128c49fc13ae5a9d00028a,Star Bulk Carriers Corp.,NASDAQ,$516.53M,Transportation,Marine Transportation,SBLK
+61128c49fc13ae5a9d00028b,PowerShares International BuyBack Achievers Portfolio,NASDAQ,$129.98M,n/a,n/a,IPKW
+61128c49fc13ae5a9d00028c,"Netflix, Inc.",NASDAQ,$65.68B,Consumer Services,Consumer Electronics/Video Chains,NFLX
+61128c49fc13ae5a9d00028d,"Bay Bancorp, Inc.",NASDAQ,$75.03M,Finance,Major Banks,BYBK
+61128c49fc13ae5a9d00028e,"Coastway Bancorp, Inc.",NASDAQ,$91.14M,Finance,Savings Institutions,CWAY
+61128c49fc13ae5a9d00028f,iShares MSCI Europe Small-Cap ETF,NASDAQ,$126.72M,n/a,n/a,IEUS
+61128c49fc13ae5a9d000290,Fiat Chrysler Automobiles N.V.,NYSE,$20.65B,Capital Goods,Auto Manufacturing,FCAU
+61128c49fc13ae5a9d000291,Invesco Quality Municipal Income Trust,NYSE,$672.68M,n/a,n/a,IQI
+61128c49fc13ae5a9d000292,Jensyn Acquistion Corp.,NASDAQ,n/a,Finance,Business Services,JSYNU
+61128c49fc13ae5a9d000293,"Century Communities, Inc.",NYSE,$551.7M,Capital Goods,Homebuilding,CCS
+61128c49fc13ae5a9d000294,First Trust Large Cap Core AlphaDEX Fund,NASDAQ,$1.55B,n/a,n/a,FEX
+61128c49fc13ae5a9d000295,VictoryShares US 500 Volatility Wtd ETF,NASDAQ,$8.83M,n/a,n/a,CFA
+61128c49fc13ae5a9d000296,Valley National Bancorp,NYSE,$3.11B,Finance,Major Banks,VLY
+61128c49fc13ae5a9d000297,"T-Mobile US, Inc.",NASDAQ,$52.45B,Public Utilities,Telecommunications Equipment,TMUS
+61128c49fc13ae5a9d000298,"Accelerate Diagnostics, Inc.",NASDAQ,$1.53B,Capital Goods,Biotechnology: Laboratory Analytical Instruments,AXDX
+61128c49fc13ae5a9d000299,Getty Realty Corporation,NYSE,$896.38M,Finance,Real Estate,GTY
+61128c49fc13ae5a9d00029a,"The Ultimate Software Group, Inc.",NASDAQ,$6.35B,Technology,Computer Software: Prepackaged Software,ULTI
+61128c49fc13ae5a9d00029b,Modern Media Acquisition Corp.,NASDAQ,n/a,Finance,Business Services,MMDMW
+61128c49fc13ae5a9d00029c,Graphic Packaging Holding Company,NYSE,$4.08B,Consumer Durables,Containers/Packaging,GPK
+61128c49fc13ae5a9d00029d,Lonestar Resources US Inc.,NASDAQ,$87.3M,Energy,Oil & Gas Production,LONE
+61128c49fc13ae5a9d00029e,"OpGen, Inc.",NASDAQ,$16.16M,Health Care,Medical Specialities,OPGN
+61128c49fc13ae5a9d00029f,Liberty Media Corporation,NASDAQ,$13.88B,Consumer Services,Broadcasting,LSXMK
+61128c49fc13ae5a9d0002a0,"HubSpot, Inc.",NYSE,$2.46B,Technology,Computer Software: Prepackaged Software,HUBS
+61128c49fc13ae5a9d0002a1,Wintrust Financial Corporation,NASDAQ,$4.27B,Finance,Major Banks,WTFC
+61128c49fc13ae5a9d0002a2,Cambrex Corporation,NYSE,$1.87B,Health Care,Major Pharmaceuticals,CBM
+61128c49fc13ae5a9d0002a3,Bank of America Corporation,NYSE,n/a,n/a,n/a,BAC^A
+61128c49fc13ae5a9d0002a4,"Bemis Company, Inc.",NYSE,$4.19B,Consumer Durables,Containers/Packaging,BMS
+61128c49fc13ae5a9d0002a5,Verint Systems Inc.,NASDAQ,$2.54B,Technology,EDP Services,VRNT
+61128c49fc13ae5a9d0002a6,PureFunds ETFx HealthTech ETF,NASDAQ,n/a,n/a,n/a,IMED
+61128c49fc13ae5a9d0002a7,trivago N.V.,NASDAQ,$4.38B,n/a,n/a,TRVG
+61128c49fc13ae5a9d0002a8,"Swiss Helvetia Fund, Inc. (The)",NYSE,$315.16M,n/a,n/a,SWZ
+61128c49fc13ae5a9d0002a9,"Air T, Inc.",NASDAQ,$38.81M,Transportation,Air Freight/Delivery Services,AIRT
+61128c49fc13ae5a9d0002aa,"Clovis Oncology, Inc.",NASDAQ,$2.69B,Health Care,Major Pharmaceuticals,CLVS
+61128c49fc13ae5a9d0002ab,"America Movil, S.A.B. de C.V.",NYSE,$52.47B,Public Utilities,Telecommunications Equipment,AMX
+61128c49fc13ae5a9d0002ac,"GAMCO Natural Resources, Gold & Income Tust ",NYSE,$140.84M,n/a,n/a,GNT
+61128c49fc13ae5a9d0002ad,"Quad Graphics, Inc",NYSE,$1.18B,Miscellaneous,Publishing,QUAD
+61128c49fc13ae5a9d0002ae,"Illumina, Inc.",NASDAQ,$25.09B,Capital Goods,Biotechnology: Laboratory Analytical Instruments,ILMN
+61128c49fc13ae5a9d0002af,"Landstar System, Inc.",NASDAQ,$3.68B,Transportation,Trucking Freight/Courier Services,LSTR
+61128c49fc13ae5a9d0002b0,"SuperCom, Ltd.",NASDAQ,$42.87M,Technology,Semiconductors,SPCB
+61128c49fc13ae5a9d0002b1,RXi Pharmaceuticals Corporation,NASDAQ,$12.79M,Health Care,Major Pharmaceuticals,RXII
+61128c49fc13ae5a9d0002b2,Shaw Communications Inc.,NYSE,$10.72B,Consumer Services,Television Services,SJR
+61128c49fc13ae5a9d0002b3,"John B. Sanfilippo & Son, Inc.",NASDAQ,$696.39M,Consumer Non-Durables,Specialty Foods,JBSS
+61128c49fc13ae5a9d0002b4,Sun Life Financial Inc.,NYSE,$20.99B,Finance,Life Insurance,SLF
+61128c49fc13ae5a9d0002b5,IBERIABANK Corporation,NASDAQ,n/a,Finance,Major Banks,IBKCO
+61128c49fc13ae5a9d0002b6,"AmeriGas Partners, L.P.",NYSE,$4.27B,Consumer Services,Other Specialty Stores,APU
+61128c49fc13ae5a9d0002b7,"Grifols, S.A.",NASDAQ,$14.64B,Health Care,Major Pharmaceuticals,GRFS
+61128c49fc13ae5a9d0002b8,Global X SuperDividend Alternatives ETF,NASDAQ,n/a,n/a,n/a,ALTY
+61128c49fc13ae5a9d0002b9,KKR & Co. L.P.,NYSE,n/a,n/a,n/a,KKR^A
+61128c49fc13ae5a9d0002ba,"Coastway Bancorp, Inc.",NASDAQ,$91.14M,Finance,Savings Institutions,CWAY
+61128c49fc13ae5a9d0002bb,Aradigm Corporation,NASDAQ,$22.79M,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,ARDM
+61128c49fc13ae5a9d0002bc,Kenon Holdings Ltd.,NYSE,$752.08M,Consumer Services,Marine Transportation,KEN
+61128c49fc13ae5a9d0002bd,Duluth Holdings Inc.,NASDAQ,$558.54M,Consumer Services,Clothing/Shoe/Accessory Stores,DLTH
+61128c49fc13ae5a9d0002be,OUTFRONT Media Inc.,NYSE,$3.27B,Consumer Services,Real Estate Investment Trusts,OUT
+61128c49fc13ae5a9d0002bf,Investors Real Estate Trust,NYSE,n/a,n/a,n/a,IRET^B
+61128c49fc13ae5a9d0002c0,Bel Fuse Inc.,NASDAQ,$312.96M,Capital Goods,Electrical Products,BELFB
+61128c49fc13ae5a9d0002c1,"Sanderson Farms, Inc.",NASDAQ,$2.88B,Consumer Non-Durables,Meat/Poultry/Fish,SAFM
+61128c49fc13ae5a9d0002c2,Lianluo Smart Limited,NASDAQ,$20.95M,Health Care,Medical/Dental Instruments,LLIT
+61128c49fc13ae5a9d0002c3,IBERIABANK Corporation,NASDAQ,n/a,Finance,Major Banks,IBKCP
+61128c49fc13ae5a9d0002c4,Sotheby's,NYSE,$2.73B,Miscellaneous,Business Services,BID
+61128c49fc13ae5a9d0002c5,"Versartis, Inc.",NASDAQ,$577.43M,Health Care,Major Pharmaceuticals,VSAR
+61128c49fc13ae5a9d0002c6,Diebold Nixdorf Incorporated,NYSE,$2.01B,Miscellaneous,Office Equipment/Supplies/Services,DBD
+61128c49fc13ae5a9d0002c7,Kayne Anderson MLP Investment Company,NYSE,$2.08B,n/a,n/a,KYN
+61128c49fc13ae5a9d0002c8,Regency Centers Corporation,NYSE,$10.45B,Consumer Services,Real Estate Investment Trusts,REG
+61128c49fc13ae5a9d0002c9,Jensyn Acquistion Corp.,NASDAQ,n/a,Finance,Business Services,JSYNW
+61128c49fc13ae5a9d0002ca,Kingold Jewelry Inc.,NASDAQ,$127.42M,Miscellaneous,Business Services,KGJI
+61128c49fc13ae5a9d0002cb,EQT Corporation,NYSE,$10.19B,Energy,Oil & Gas Production,EQT
+61128c49fc13ae5a9d0002cc,Quotient Limited,NASDAQ,$276.7M,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,QTNT
+61128c49fc13ae5a9d0002cd,"Verastem, Inc.",NASDAQ,$74.72M,Health Care,Major Pharmaceuticals,VSTM
+61128c49fc13ae5a9d0002ce,Matthews International Corporation,NASDAQ,$2.08B,Capital Goods,Metal Fabrications,MATW
+61128c49fc13ae5a9d0002cf,PAREXEL International Corporation,NASDAQ,$4.24B,Health Care,Biotechnology: Commercial Physical & Biological Resarch,PRXL
+61128c49fc13ae5a9d0002d0,ENDRA Life Sciences Inc.,NASDAQ,n/a,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,NDRAU
+61128c49fc13ae5a9d0002d1,Noodles & Company,NASDAQ,$154.07M,Consumer Services,Restaurants,NDLS
+61128c49fc13ae5a9d0002d2,"Pathfinder Bancorp, Inc.",NASDAQ,$63.94M,Finance,Major Banks,PBHC
+61128c49fc13ae5a9d0002d3,ProShares UltraShort Nasdaq Biotechnology,NASDAQ,$52.03M,n/a,n/a,BIS
+61128c49fc13ae5a9d0002d4,Preformed Line Products Company,NASDAQ,$241.57M,Basic Industries,Water Supply,PLPC
+61128c49fc13ae5a9d0002d5,AirMedia Group Inc,NASDAQ,$95.78M,Technology,Advertising,AMCN
+61128c49fc13ae5a9d0002d6,"Endologix, Inc.",NASDAQ,$385M,Health Care,Medical/Dental Instruments,ELGX
+61128c49fc13ae5a9d0002d7,Bel Fuse Inc.,NASDAQ,$252.29M,Capital Goods,Electrical Products,BELFA
+61128c49fc13ae5a9d0002d8,TransCanada Corporation,NYSE,$41.81B,Public Utilities,Natural Gas Distribution,TRP
+61128c49fc13ae5a9d0002d9,Convergys Corporation,NYSE,$2.28B,Technology,EDP Services,CVG
+61128c49fc13ae5a9d0002da,Atlantica Yield plc,NASDAQ,$2.05B,Public Utilities,Electric Utilities: Central,ABY
+61128c49fc13ae5a9d0002db,Function(x) Inc.,NASDAQ,$14.24M,Technology,"Computer Software: Programming, Data Processing",FNCX
+61128c49fc13ae5a9d0002dc,"Liberty Tax, Inc.",NASDAQ,$158.53M,Miscellaneous,Multi-Sector Companies,TAX
+61128c49fc13ae5a9d0002dd,Modern Media Acquisition Corp.,NASDAQ,n/a,Finance,Business Services,MMDMR
+61128c49fc13ae5a9d0002de,"Civista Bancshares, Inc. ",NASDAQ,$204.1M,Finance,Major Banks,CIVB
+61128c49fc13ae5a9d0002df,Pacific Premier Bancorp Inc,NASDAQ,$1.45B,Finance,Major Banks,PPBI
+61128c49fc13ae5a9d0002e0,"Tallgrass Energy Partners, LP",NYSE,$3.4B,Public Utilities,Natural Gas Distribution,TEP
+61128c49fc13ae5a9d0002e1,"American International Group, Inc.",NYSE,$58.82B,Finance,Property-Casualty Insurers,AIG
+61128c49fc13ae5a9d0002e2,"UFP Technologies, Inc.",NASDAQ,$200.32M,Capital Goods,Containers/Packaging,UFPT
+61128c49fc13ae5a9d0002e3,Huntington Bancshares Incorporated,NASDAQ,n/a,Finance,Major Banks,HBANN
+61128c49fc13ae5a9d0002e4,"Citizens, Inc.",NYSE,$350.57M,Finance,Life Insurance,CIA
+61128c49fc13ae5a9d0002e5,Panhandle Royalty Company,NYSE,$384.22M,Energy,Oil & Gas Production,PHX
+61128c49fc13ae5a9d0002e6,"PennyMac Financial Services, Inc.",NYSE,$387.13M,Finance,Finance: Consumer Services,PFSI
+61128c49fc13ae5a9d0002e7,First Trust NASDAQ Global Auto Index Fund,NASDAQ,$18.49M,n/a,n/a,CARZ
+61128c49fc13ae5a9d0002e8,"Monolithic Power Systems, Inc.",NASDAQ,$4.01B,Technology,Semiconductors,MPWR
+61128c49fc13ae5a9d0002e9,"Cartesian, Inc.",NASDAQ,$5.76M,Consumer Services,Professional Services,CRTN
+61128c49fc13ae5a9d0002ea,"H&R Block, Inc.",NYSE,$6.2B,Consumer Services,Other Consumer Services,HRB
+61128c49fc13ae5a9d0002eb,"Snyder's-Lance, Inc.",NASDAQ,$3.44B,Consumer Non-Durables,Specialty Foods,LNCE
+61128c49fc13ae5a9d0002ec,"PIMCO Strategic Income Fund, Inc.",NYSE,$421.64M,n/a,n/a,RCS
+61128c49fc13ae5a9d0002ed,iShares MSCI ACWI ex US Index Fund,NASDAQ,$2.33B,n/a,n/a,ACWX
+61128c49fc13ae5a9d0002ee,Digirad Corporation,NASDAQ,$77.91M,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus,DRAD
+61128c49fc13ae5a9d0002ef,Comcast Corporation,NYSE,n/a,Consumer Services,Television Services,CCV
+61128c49fc13ae5a9d0002f0,"CYS Investments, Inc.",NYSE,n/a,n/a,n/a,CYS^B
+61128c49fc13ae5a9d0002f1,EPR Properties,NYSE,n/a,n/a,n/a,EPR^F
+61128c49fc13ae5a9d0002f2,"PTC Therapeutics, Inc.",NASDAQ,$700.74M,Health Care,Major Pharmaceuticals,PTCT
+61128c49fc13ae5a9d0002f3,"Photronics, Inc.",NASDAQ,$685.28M,Technology,Semiconductors,PLAB
+61128c49fc13ae5a9d0002f4,Nuveen Dow 30SM Dynamic Overwrite Fund,NYSE,$592.88M,n/a,n/a,DIAX
+61128c49fc13ae5a9d0002f5,Chimera Investment Corporation,NYSE,n/a,n/a,n/a,CIM^A
+61128c49fc13ae5a9d0002f6,AMC Networks Inc.,NASDAQ,$3.72B,Consumer Services,Television Services,AMCX
+61128c49fc13ae5a9d0002f7,"ASB Bancorp, Inc.",NASDAQ,$167.24M,Finance,Savings Institutions,ASBB
+61128c49fc13ae5a9d0002f8,"Bio-Rad Laboratories, Inc.",NYSE,$6.53B,Capital Goods,Biotechnology: Laboratory Analytical Instruments,BIO
+61128c49fc13ae5a9d0002f9,"The Chefs' Warehouse, Inc.",NASDAQ,$387.37M,Consumer Non-Durables,Food Distributors,CHEF
+61128c49fc13ae5a9d0002fa,"Reinsurance Group of America, Incorporated",NYSE,n/a,Finance,Life Insurance,RZA
+61128c49fc13ae5a9d0002fb,Quidel Corporation,NASDAQ,$854.72M,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,QDEL
+61128c49fc13ae5a9d0002fc,BB&T Corporation,NYSE,n/a,n/a,n/a,BBT^E
+61128c49fc13ae5a9d0002fd,"The Hanover Insurance Group, Inc.",NYSE,$3.77B,Finance,Property-Casualty Insurers,THG
+61128c49fc13ae5a9d0002fe,"Net 1 UEPS Technologies, Inc.",NASDAQ,$556.9M,Finance,Investment Bankers/Brokers/Service,UEPS
+61128c49fc13ae5a9d0002ff,The KEYW Holding Corporation,NASDAQ,$447.05M,Technology,EDP Services,KEYW
+61128c49fc13ae5a9d000300,Marvell Technology Group Ltd.,NASDAQ,$8.71B,Technology,Semiconductors,MRVL
+61128c49fc13ae5a9d000301,"StealthGas, Inc.",NASDAQ,$122.37M,Transportation,Marine Transportation,GASS
+61128c49fc13ae5a9d000302,Blackrock Muni New York Intermediate Duration Fund Inc,NYSE,$58.47M,n/a,n/a,MNE
+61128c49fc13ae5a9d000303,Zumiez Inc.,NASDAQ,$316.23M,Consumer Services,Clothing/Shoe/Accessory Stores,ZUMZ
+61128c49fc13ae5a9d000304,Scudder Strategic Income Trust,NYSE,$54.13M,n/a,n/a,KST
+61128c49fc13ae5a9d000305,First Trust Capital Strength ETF,NASDAQ,$431.69M,n/a,n/a,FTCS
+61128c49fc13ae5a9d000306,CrossAmerica Partners LP,NYSE,$832.71M,Energy,Oil Refining/Marketing,CAPL
+61128c49fc13ae5a9d000307,Altisource Portfolio Solutions S.A.,NASDAQ,$403.3M,Consumer Services,Other Consumer Services,ASPS
+61128c49fc13ae5a9d000308,Bank of America Corporation,NYSE,$233.17B,Finance,Major Banks,BAC
+61128c49fc13ae5a9d000309,Urstadt Biddle Properties Inc.,NYSE,n/a,n/a,n/a,UBP^F
+61128c49fc13ae5a9d00030a,Western Digital Corporation,NASDAQ,$25.37B,Technology,Electronic Components,WDC
+61128c49fc13ae5a9d00030b,"MasTec, Inc.",NYSE,$3.69B,Basic Industries,Water Supply,MTZ
+61128c49fc13ae5a9d00030c,Viper Energy Partners LP,NASDAQ,$1.59B,Energy,Oil & Gas Production,VNOM
+61128c49fc13ae5a9d00030d,GATX Corporation,NYSE,$2.54B,Consumer Services,Transportation Services,GATX
+61128c49fc13ae5a9d00030e,"Pure Storage, Inc. ",NYSE,$2.77B,Technology,Electronic Components,PSTG
+61128c49fc13ae5a9d00030f,"Willamette Valley Vineyards, Inc.",NASDAQ,n/a,Consumer Non-Durables,Beverages (Production/Distribution),WVVIP
+61128c49fc13ae5a9d000310,"Barnes Group, Inc.",NYSE,$3.16B,Capital Goods,Metal Fabrications,B
+61128c49fc13ae5a9d000311,Aflac Incorporated,NYSE,n/a,Finance,Accident &Health Insurance,AFSD
+61128c49fc13ae5a9d000312,Capella Education Company,NASDAQ,$1.04B,Consumer Services,Other Consumer Services,CPLA
+61128c49fc13ae5a9d000313,Piper Jaffray Companies,NYSE,$923.44M,Finance,Investment Bankers/Brokers/Service,PJC
+61128c49fc13ae5a9d000314,Altisource Residential Corporation,NYSE,$678.58M,Finance,Real Estate,RESI
+61128c49fc13ae5a9d000315,Verint Systems Inc.,NASDAQ,$2.54B,Technology,EDP Services,VRNT
+61128c49fc13ae5a9d000316,Asure Software Inc,NASDAQ,$172.9M,Technology,EDP Services,ASUR
+61128c49fc13ae5a9d000317,Horizon Bancorp (IN),NASDAQ,$580.2M,Finance,Major Banks,HBNC
+61128c49fc13ae5a9d000318,"Meridian Waste Solutions, Inc",NASDAQ,n/a,Basic Industries,Miscellaneous,MRDNW
+61128c49fc13ae5a9d000319,First Trust Mid Cap Value AlphaDEX Fund,NASDAQ,$54.66M,n/a,n/a,FNK
+61128c49fc13ae5a9d00031a,Blackrock Floating Rate Income Strategies Fund Inc,NYSE,$526.1M,n/a,n/a,FRA
+61128c49fc13ae5a9d00031b,Greif Bros. Corporation,NYSE,n/a,n/a,n/a,GEF.B
+61128c49fc13ae5a9d00031c,Discover Financial Services,NYSE,$23.23B,Finance,Finance: Consumer Services,DFS
+61128c49fc13ae5a9d00031d,"Western Asset Municipal High Income Fund, Inc.",NYSE,$160.52M,n/a,n/a,MHF
+61128c49fc13ae5a9d00031e,"Weyco Group, Inc.",NASDAQ,$291.31M,Consumer Non-Durables,Apparel,WEYS
+61128c49fc13ae5a9d00031f,M III Acquisition Corp.,NASDAQ,$187.3M,Finance,Business Services,MIII
+61128c49fc13ae5a9d000320,Newtek Business Services Corp.,NASDAQ,n/a,n/a,n/a,NEWTZ
+61128c49fc13ae5a9d000321,"Alliqua BioMedical, Inc.",NASDAQ,$17.01M,Health Care,Medical/Dental Instruments,ALQA
+61128c49fc13ae5a9d000322,"Kimball International, Inc.",NASDAQ,$629.83M,Consumer Durables,Home Furnishings,KBAL
+61128c49fc13ae5a9d000323,"BSB Bancorp, Inc.",NASDAQ,$292.59M,Finance,Major Banks,BLMT
+61128c49fc13ae5a9d000324,"OncoMed Pharmaceuticals, Inc.",NASDAQ,$135.82M,Health Care,Major Pharmaceuticals,OMED
+61128c49fc13ae5a9d000325,Cardtronics plc,NASDAQ,$1.52B,Miscellaneous,Business Services,CATM
+61128c49fc13ae5a9d000326,"Lantheus Holdings, Inc.",NASDAQ,$562.75M,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,LNTH
+61128c49fc13ae5a9d000327,"Hemisphere Media Group, Inc.",NASDAQ,$484.37M,Consumer Services,Television Services,HMTV
+61128c49fc13ae5a9d000328,"Sun Bancorp, Inc.",NASDAQ,$483.16M,Finance,Commercial Banks,SNBC
+61128c49fc13ae5a9d000329,"Insignia Systems, Inc.",NASDAQ,$11.89M,Consumer Services,Advertising,ISIG
+61128c49fc13ae5a9d00032a,"Adamas Pharmaceuticals, Inc.",NASDAQ,$391.07M,Health Care,Major Pharmaceuticals,ADMS
+61128c49fc13ae5a9d00032b,Applied Genetic Technologies Corporation,NASDAQ,$91.32M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),AGTC
+61128c49fc13ae5a9d00032c,"Achillion Pharmaceuticals, Inc.",NASDAQ,$578.34M,Health Care,Major Pharmaceuticals,ACHN
+61128c49fc13ae5a9d00032d,IDT Corporation,NYSE,$372.55M,Public Utilities,Telecommunications Equipment,IDT
+61128c49fc13ae5a9d00032e,"Wecast Network, Inc.",NASDAQ,$130.02M,Consumer Services,Television Services,WCST
+61128c49fc13ae5a9d00032f,"Gevo, Inc.",NASDAQ,$9.39M,Basic Industries,Major Chemicals,GEVO
+61128c49fc13ae5a9d000330,Duke Energy Corporation,NYSE,$60.99B,Public Utilities,Power Generation,DUK
+61128c49fc13ae5a9d000331,VEREIT Inc.,NYSE,n/a,n/a,n/a,VER^F
+61128c49fc13ae5a9d000332,FNB Bancorp,NASDAQ,$200.83M,Finance,Major Banks,FNBG
+61128c49fc13ae5a9d000333,"Proteostasis Therapeutics, Inc.",NASDAQ,$96.09M,Health Care,Major Pharmaceuticals,PTI
+61128c49fc13ae5a9d000334,Intercontinental Exchange Inc.,NYSE,$38.23B,Finance,Investment Bankers/Brokers/Service,ICE
+61128c49fc13ae5a9d000335,Forward Air Corporation,NASDAQ,$1.6B,Transportation,Oil Refining/Marketing,FWRD
+61128c49fc13ae5a9d000336,Genie Energy Ltd.,NYSE,n/a,n/a,n/a,GNE^A
+61128c49fc13ae5a9d000337,"Sypris Solutions, Inc.",NASDAQ,$35.52M,Capital Goods,Industrial Machinery/Components,SYPR
+61128c49fc13ae5a9d000338,Matlin & Partners Acquisition Corporation,NASDAQ,n/a,Finance,Business Services,MPACU
+61128c49fc13ae5a9d000339,BlackBerry Limited,NASDAQ,$5.6B,Public Utilities,Telecommunications Equipment,BBRY
+61128c49fc13ae5a9d00033a,VictoryShares International High Div Volatility Wtd ETF,NASDAQ,n/a,n/a,n/a,CID
+61128c49fc13ae5a9d00033b,"Genocea Biosciences, Inc.",NASDAQ,$155.64M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),GNCA
+61128c49fc13ae5a9d00033c,Equity Commonwealth,NYSE,n/a,n/a,n/a,EQC^D
+61128c49fc13ae5a9d00033d,Avista Corporation,NYSE,$2.86B,Public Utilities,Power Generation,AVA
+61128c49fc13ae5a9d00033e,Kimco Realty Corporation,NYSE,n/a,n/a,n/a,KIM^I
+61128c49fc13ae5a9d00033f,"PS Business Parks, Inc.",NYSE,n/a,n/a,n/a,PSB^W
+61128c49fc13ae5a9d000340,"China HGS Real Estate, Inc.",NASDAQ,$69.38M,Finance,Real Estate,HGSH
+61128c49fc13ae5a9d000341,Denny's Corporation,NASDAQ,$803.43M,Consumer Services,Restaurants,DENN
+61128c49fc13ae5a9d000342,Scorpio Tankers Inc.,NYSE,n/a,Transportation,Marine Transportation,SBNA
+61128c49fc13ae5a9d000343,Chatham Lodging Trust (REIT),NYSE,$776.55M,Consumer Services,Real Estate Investment Trusts,CLDT
+61128c49fc13ae5a9d000344,Concurrent Computer Corporation,NASDAQ,$68.78M,Technology,Computer Manufacturing,CCUR
+61128c49fc13ae5a9d000345,"The Trade Desk, Inc.",NASDAQ,$1.99B,Technology,"Computer Software: Programming, Data Processing",TTD
+61128c49fc13ae5a9d000346,Abeona Therapeutics Inc.,NASDAQ,n/a,Health Care,Major Pharmaceuticals,ABEOW
+61128c49fc13ae5a9d000347,Crawford & Company,NYSE,n/a,n/a,n/a,CRD.B
+61128c49fc13ae5a9d000348,Global X FinTech ETF,NASDAQ,n/a,n/a,n/a,FINX
+61128c49fc13ae5a9d000349,United Microelectronics Corporation,NYSE,$4.95B,Technology,Semiconductors,UMC
+61128c49fc13ae5a9d00034a,Cardiome Pharma Corporation,NASDAQ,$125.47M,Health Care,Major Pharmaceuticals,CRME
+61128c49fc13ae5a9d00034b,"Fulgent Genetics, Inc.",NASDAQ,$92.71M,Health Care,Medical Specialities,FLGT
+61128c49fc13ae5a9d00034c,"O'Reilly Automotive, Inc.",NASDAQ,$21.06B,Consumer Services,Other Specialty Stores,ORLY
+61128c49fc13ae5a9d00034d,Materialise NV,NASDAQ,$568.38M,Technology,Computer Software: Prepackaged Software,MTLS
+61128c49fc13ae5a9d00034e,Crane Company,NYSE,$4.72B,Capital Goods,Metal Fabrications,CR
+61128c49fc13ae5a9d00034f,Las Vegas Sands Corp.,NYSE,$51.49B,Consumer Services,Hotels/Resorts,LVS
+61128c49fc13ae5a9d000350,"Monster Digital, Inc.",NASDAQ,n/a,Technology,Electronic Components,MSDIW
+61128c49fc13ae5a9d000351,"GAMCO Natural Resources, Gold & Income Tust ",NYSE,$140.84M,n/a,n/a,GNT
+61128c49fc13ae5a9d000352,"Oppenheimer Holdings, Inc.",NYSE,$219.09M,Finance,Investment Bankers/Brokers/Service,OPY
+61128c49fc13ae5a9d000353,Kamada Ltd.,NASDAQ,$267.89M,Health Care,Major Pharmaceuticals,KMDA
+61128c49fc13ae5a9d000354,"Resources Connection, Inc.",NASDAQ,$400.32M,Miscellaneous,Business Services,RECN
+61128c49fc13ae5a9d000355,Eaton Vance Municipal Income 2028 Term Trust,NYSE,$222.28M,n/a,n/a,ETX           
+61128c49fc13ae5a9d000356,TPG Pace Energy Holdings Corp.,NYSE,n/a,n/a,n/a,TPGE.U
+61128c49fc13ae5a9d000357,"Aimmune Therapeutics, Inc.",NASDAQ,$829.14M,Health Care,Major Pharmaceuticals,AIMT
+61128c49fc13ae5a9d000358,Apollo Commercial Real Estate Finance,NYSE,n/a,n/a,n/a,ARI^A
+61128c49fc13ae5a9d000359,Blackrock Global,NYSE,$927.6M,n/a,n/a,BOE
+61128c49fc13ae5a9d00035a,Cerner Corporation,NASDAQ,$21.82B,Technology,EDP Services,CERN
+61128c49fc13ae5a9d00035b,Triple-S Management Corporation,NYSE,$403.79M,Finance,Accident &Health Insurance,GTS
+61128c49fc13ae5a9d00035c,Moody's Corporation,NYSE,$23.39B,Finance,Finance: Consumer Services,MCO
+61128c49fc13ae5a9d00035d,Eaton vance Floating-Rate Income Plus Fund,NYSE,$129.69M,n/a,n/a,EFF
+61128c49fc13ae5a9d00035e,"Full House Resorts, Inc.",NASDAQ,$53.96M,Consumer Services,Hotels/Resorts,FLL
+61128c49fc13ae5a9d00035f,Humana Inc.,NYSE,$33.84B,Health Care,Medical Specialities,HUM
+61128c49fc13ae5a9d000360,Playa Hotels & Resorts N.V.,NASDAQ,$1.1B,Consumer Services,Hotels/Resorts,PLYA
+61128c49fc13ae5a9d000361,"RSP Permian, Inc.",NYSE,$4.84B,Energy,Oil & Gas Production,RSPP
+61128c49fc13ae5a9d000362,Lindblad Expeditions Holdings Inc. ,NASDAQ,$434.29M,Consumer Services,Transportation Services,LIND
+61128c49fc13ae5a9d000363,El Paso Electric Company,NYSE,$2.17B,Public Utilities,Electric Utilities: Central,EE
+61128c49fc13ae5a9d000364,iStar Financial Inc.,NYSE,n/a,n/a,n/a,STAR^I
+61128c49fc13ae5a9d000365,"Banco Santander, S.A.",NYSE,n/a,n/a,n/a,SAN^I
+61128c49fc13ae5a9d000366,Avista Corporation,NYSE,$2.86B,Public Utilities,Power Generation,AVA
+61128c49fc13ae5a9d000367,WisdomTree U.S. Quality Dividend Growth Fund,NASDAQ,$1.45B,n/a,n/a,DGRW
+61128c49fc13ae5a9d000368,"Pinnacle Entertainment, Inc.",NASDAQ,$1.16B,Consumer Services,Hotels/Resorts,PNK
+61128c49fc13ae5a9d000369,Whitestone REIT,NYSE,$464.66M,Consumer Services,Real Estate Investment Trusts,WSR
+61128c49fc13ae5a9d00036a,"Fuel Tech, Inc.",NASDAQ,$21.8M,Capital Goods,Pollution Control Equipment,FTEK
+61128c49fc13ae5a9d00036b,Kemper Corporation,NYSE,n/a,Finance,Property-Casualty Insurers,KMPA
+61128c49fc13ae5a9d00036c,Advantage Oil & Gas Ltd,NYSE,$1.15B,Energy,Oil & Gas Production,AAV
+61128c49fc13ae5a9d00036d,"Barnes Group, Inc.",NYSE,$3.16B,Capital Goods,Metal Fabrications,B
+61128c49fc13ae5a9d00036e,"DWS High Income Opportunities Fund, Inc.",NYSE,$226.66M,n/a,n/a,DHG
+61128c49fc13ae5a9d00036f,First Trust Senior Floating Rate Income Fund II,NYSE,$359.34M,n/a,n/a,FCT
+61128c49fc13ae5a9d000370,First Trust Small Cap Value AlphaDEX Fund,NASDAQ,$64.41M,n/a,n/a,FYT
+61128c49fc13ae5a9d000371,"Bemis Company, Inc.",NYSE,$4.19B,Consumer Durables,Containers/Packaging,BMS
+61128c49fc13ae5a9d000372,Vanguard Long-Term Corporate Bond ETF,NASDAQ,$1.91B,n/a,n/a,VCLT
+61128c49fc13ae5a9d000373,"Alteryx, Inc.",NYSE,$1.09B,Technology,Computer Software: Prepackaged Software,AYX
+61128c49fc13ae5a9d000374,Pacific Mercantile Bancorp,NASDAQ,$198.16M,Finance,Major Banks,PMBC
+61128c49fc13ae5a9d000375,"Celestica, Inc.",NYSE,$1.69B,Technology,Electrical Products,CLS
+61128c49fc13ae5a9d000376,"Clovis Oncology, Inc.",NASDAQ,$2.69B,Health Care,Major Pharmaceuticals,CLVS
+61128c49fc13ae5a9d000377,"Adams Natural Resources Fund, Inc.",NYSE,$538.84M,n/a,n/a,PEO
+61128c49fc13ae5a9d000378,Playa Hotels & Resorts N.V.,NASDAQ,$1.1B,Consumer Services,Hotels/Resorts,PLYA
+61128c49fc13ae5a9d000379,DURECT Corporation,NASDAQ,$185.98M,Health Care,Major Pharmaceuticals,DRRX
+61128c49fc13ae5a9d00037a,Teekay Tankers Ltd.,NYSE,$311.8M,Consumer Services,Marine Transportation,TNK
+61128c49fc13ae5a9d00037b,"Engility Holdings, Inc.",NYSE,$1.05B,Consumer Services,Military/Government/Technical,EGL
+61128c49fc13ae5a9d00037c,"Shutterstock, Inc.",NYSE,$1.51B,Technology,EDP Services,SSTK
+61128c49fc13ae5a9d00037d,iShares MSCI Qatar Capped ETF,NASDAQ,$38.96M,n/a,n/a,QAT
+61128c49fc13ae5a9d00037e,"Agile Therapeutics, Inc.",NASDAQ,$105.72M,Health Care,Major Pharmaceuticals,AGRX
+61128c49fc13ae5a9d00037f,"GTY Technology Holdings, Inc.",NASDAQ,$707.25M,Finance,Business Services,GTYH
+61128c49fc13ae5a9d000380,PartnerRe Ltd.,NYSE,n/a,n/a,n/a,PRE^H
+61128c49fc13ae5a9d000381,Allergan plc.,NYSE,n/a,n/a,n/a,AGN^A
+61128c49fc13ae5a9d000382,"Schnitzer Steel Industries, Inc.",NASDAQ,$520.56M,Consumer Durables,Industrial Specialties,SCHN
+61128c49fc13ae5a9d000383,First Trust High Income Long Short Fund,NYSE,$607.04M,n/a,n/a,FSD
+61128c49fc13ae5a9d000384,Videocon d2h Limited,NASDAQ,$1.05B,Consumer Services,Television Services,VDTH
+61128c49fc13ae5a9d000385,iShares Fallen Angels USD Bond ETF,NASDAQ,$10.9M,n/a,n/a,FALN
+61128c49fc13ae5a9d000386,"ServiceSource International, Inc.",NASDAQ,$317.23M,Miscellaneous,Business Services,SREV
+61128c49fc13ae5a9d000387,"Yatra Online, Inc.",NASDAQ,$398.74M,Consumer Services,Transportation Services,YTRA
+61128c49fc13ae5a9d000388,"Parkway, Inc.",NYSE,$1.02B,n/a,n/a,PKY
+61128c49fc13ae5a9d000389,"Southside Bancshares, Inc.",NASDAQ,$1.02B,Finance,Major Banks,SBSI
+61128c49fc13ae5a9d00038a,"BofI Holding, Inc.",NASDAQ,$1.47B,Finance,Savings Institutions,BOFI
+61128c49fc13ae5a9d00038b,Oak Valley Bancorp (CA),NASDAQ,$112.21M,Finance,Major Banks,OVLY
+61128c49fc13ae5a9d00038c,"Celadon Group, Inc.",NYSE,$86.31M,Transportation,Trucking Freight/Courier Services,CGI
+61128c49fc13ae5a9d00038d,"DSP Group, Inc.",NASDAQ,$258.27M,Technology,Semiconductors,DSPG
+61128c49fc13ae5a9d00038e,"ServiceSource International, Inc.",NASDAQ,$317.23M,Miscellaneous,Business Services,SREV
+61128c49fc13ae5a9d00038f,"Cohen & Steers Select Preferred and Income Fund, Inc.",NYSE,$339.02M,n/a,n/a,PSF
+61128c49fc13ae5a9d000390,"Aevi Genomic Medicine, Inc.",NASDAQ,$46.76M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),GNMX
+61128c49fc13ae5a9d000391,ProShares UltraPro Short QQQ,NASDAQ,$524.17M,n/a,n/a,SQQQ
+61128c49fc13ae5a9d000392,"ServiceMaster Global Holdings, Inc.",NYSE,$5.33B,Consumer Services,Other Consumer Services,SERV
+61128c49fc13ae5a9d000393,"Hemisphere Media Group, Inc.",NASDAQ,$484.37M,Consumer Services,Television Services,HMTV
+61128c49fc13ae5a9d000394,"Concert Pharmaceuticals, Inc.",NASDAQ,$299.64M,Health Care,Major Pharmaceuticals,CNCE
+61128c49fc13ae5a9d000395,QAD Inc.,NASDAQ,$498.57M,Technology,Computer Software: Prepackaged Software,QADB
+61128c49fc13ae5a9d000396,Modern Media Acquisition Corp.,NASDAQ,n/a,Finance,Business Services,MMDMR
+61128c49fc13ae5a9d000397,"Bancorp 34, Inc.",NASDAQ,$47.36M,Finance,Savings Institutions,BCTF
+61128c49fc13ae5a9d000398,Blackrock Floating Rate Income Strategies Fund Inc,NYSE,$526.1M,n/a,n/a,FRA
+61128c49fc13ae5a9d000399,"Clearfield, Inc.",NASDAQ,$192.38M,Public Utilities,Telecommunications Equipment,CLFD
+61128c49fc13ae5a9d00039a,"GTY Technology Holdings, Inc.",NASDAQ,$707.25M,Finance,Business Services,GTYH
+61128c49fc13ae5a9d00039b,"Aquinox Pharmaceuticals, Inc.",NASDAQ,$313.17M,Health Care,Major Pharmaceuticals,AQXP
+61128c49fc13ae5a9d00039c,"Medical Transcription Billing, Corp.",NASDAQ,$19.07M,Technology,Computer Software: Prepackaged Software,MTBC
+61128c49fc13ae5a9d00039d,"Roka Bioscience, Inc.",NASDAQ,$13.52M,Capital Goods,Biotechnology: Laboratory Analytical Instruments,ROKA
+61128c49fc13ae5a9d00039e,"Core-Mark Holding Company, Inc.",NASDAQ,$1.59B,Consumer Non-Durables,Food Distributors,CORE
+61128c49fc13ae5a9d00039f,SM Energy Company,NYSE,$1.74B,Energy,Oil & Gas Production,SM
+61128c49fc13ae5a9d0003a0,FNB Bancorp,NASDAQ,$200.83M,Finance,Major Banks,FNBG
+61128c49fc13ae5a9d0003a1,"One Liberty Properties, Inc.",NYSE,$446.72M,Consumer Services,Real Estate Investment Trusts,OLP
+61128c49fc13ae5a9d0003a2,Virtus Global Dividend & Income Fund Inc.,NYSE,$320.21M,n/a,n/a,ZTR
+61128c49fc13ae5a9d0003a3,"Eldorado Resorts, Inc.",NASDAQ,$1.53B,Consumer Services,Hotels/Resorts,ERI
+61128c49fc13ae5a9d0003a4,"Triumph Bancorp, Inc.",NASDAQ,$428.18M,Finance,Major Banks,TBK
+61128c49fc13ae5a9d0003a5,"Sun Bancorp, Inc.",NASDAQ,$483.16M,Finance,Commercial Banks,SNBC
+61128c49fc13ae5a9d0003a6,Internap Corporation,NASDAQ,$273.47M,Technology,"Computer Software: Programming, Data Processing",INAP
+61128c49fc13ae5a9d0003a7,Eaton Vance NextShares Trust,NASDAQ,n/a,n/a,n/a,EVSTC
+61128c49fc13ae5a9d0003a8,VelocityShares VIX Medium-Term ETN,NASDAQ,$1.14M,Finance,Investment Bankers/Brokers/Service,VIIZ
+61128c49fc13ae5a9d0003a9,Scotts Miracle-Gro Company (The),NYSE,$5.23B,Basic Industries,Agricultural Chemicals,SMG
+61128c49fc13ae5a9d0003aa,PAVmed Inc.,NASDAQ,$63.59M,Health Care,Medical/Dental Instruments,PAVM
+61128c49fc13ae5a9d0003ab,"Autoliv, Inc.",NYSE,$9.71B,Capital Goods,Auto Parts:O.E.M.,ALV
+61128c49fc13ae5a9d0003ac,"Himax Technologies, Inc.",NASDAQ,$1.4B,Technology,Semiconductors,HIMX
+61128c49fc13ae5a9d0003ad,Addus HomeCare Corporation,NASDAQ,$424.11M,Health Care,Medical/Nursing Services,ADUS
+61128c49fc13ae5a9d0003ae,PowerShares S&P SmallCap Energy Portfolio,NASDAQ,$34.07M,n/a,n/a,PSCE
+61128c49fc13ae5a9d0003af,The AES Corporation,NYSE,$7.87B,Basic Industries,Electric Utilities: Central,AES
+61128c49fc13ae5a9d0003b0,Scorpio Bulkers Inc.,NYSE,n/a,Transportation,Marine Transportation,SLTB
+61128c49fc13ae5a9d0003b1,Unisys Corporation,NYSE,$625.05M,Technology,EDP Services,UIS
+61128c49fc13ae5a9d0003b2,Costamare Inc.,NYSE,n/a,n/a,n/a,CMRE^C
+61128c49fc13ae5a9d0003b3,"Tortoise MLP Fund, Inc.",NYSE,$854.52M,n/a,n/a,NTG
+61128c49fc13ae5a9d0003b4,"Retail Properties of America, Inc.",NYSE,n/a,n/a,n/a,RPAI^A
+61128c49fc13ae5a9d0003b5,"Digiliti Money Group, Inc.",NASDAQ,$31.11M,Technology,Telecommunications Equipment,DGLT
+61128c49fc13ae5a9d0003b6,ENDRA Life Sciences Inc.,NASDAQ,n/a,n/a,n/a,NDRA
+61128c49fc13ae5a9d0003b7,First Community Corporation,NASDAQ,$146.67M,Finance,Major Banks,FCCO
+61128c49fc13ae5a9d0003b8,"DXP Enterprises, Inc.",NASDAQ,$630.7M,Capital Goods,Industrial Machinery/Components,DXPE
+61128c49fc13ae5a9d0003b9,"Interlink Electronics, Inc.",NASDAQ,$60.66M,Technology,Computer peripheral equipment,LINK
+61128c49fc13ae5a9d0003ba,Lions Gate Entertainment Corporation,NYSE,n/a,n/a,n/a,LGF.B
+61128c49fc13ae5a9d0003bb,Novelion Therapeutics Inc. ,NASDAQ,$171.11M,Health Care,Major Pharmaceuticals,NVLN
+61128c49fc13ae5a9d0003bc,"Lombard Medical, Inc.",NASDAQ,$13.04M,Health Care,Medical/Dental Instruments,EVAR
+61128c49fc13ae5a9d0003bd,Cincinnati Bell Inc,NYSE,n/a,n/a,n/a,CBB^B
+61128c49fc13ae5a9d0003be,Sotherly Hotels Inc.,NASDAQ,$91.07M,Consumer Services,Real Estate Investment Trusts,SOHO
+61128c49fc13ae5a9d0003bf,United Community Bancorp,NASDAQ,$79.88M,Finance,Savings Institutions,UCBA
+61128c49fc13ae5a9d0003c0,IBERIABANK Corporation,NASDAQ,n/a,Finance,Major Banks,IBKCP
+61128c49fc13ae5a9d0003c1,Kohl's Corporation,NYSE,$6.37B,Consumer Services,Department/Specialty Retail Stores,KSS
+61128c49fc13ae5a9d0003c2,McGrath RentCorp,NASDAQ,$818.25M,Technology,Diversified Commercial Services,MGRC
+61128c49fc13ae5a9d0003c3,Ashford Hospitality Trust Inc,NYSE,n/a,n/a,n/a,AHT^D
+61128c49fc13ae5a9d0003c4,Wells Fargo & Company,NYSE,$269.31B,Finance,Major Banks,WFC
+61128c49fc13ae5a9d0003c5,KLA-Tencor Corporation,NASDAQ,$15.32B,Capital Goods,Electronic Components,KLAC
+61128c49fc13ae5a9d0003c6,State Street Corporation,NYSE,$33.2B,Finance,Major Banks,STT
+61128c49fc13ae5a9d0003c7,"Reinsurance Group of America, Incorporated",NYSE,n/a,Finance,Life Insurance,RZB
+61128c49fc13ae5a9d0003c8,"First Business Financial Services, Inc.",NASDAQ,$208.63M,Finance,Major Banks,FBIZ
+61128c49fc13ae5a9d0003c9,"Square, Inc.",NYSE,$8.81B,Technology,Computer Software: Prepackaged Software,SQ
+61128c49fc13ae5a9d0003ca,MFC Bancorp Ltd.,NYSE,$101.56M,Finance,Commercial Banks,MFCB
+61128c49fc13ae5a9d0003cb,"Best Buy Co., Inc.",NYSE,$16.97B,Consumer Services,Consumer Electronics/Video Chains,BBY
+61128c49fc13ae5a9d0003cc,First Trust Small Cap Growth AlphaDEX Fund,NASDAQ,$104.39M,n/a,n/a,FYC
+61128c49fc13ae5a9d0003cd,NICE Ltd,NASDAQ,$4.69B,Technology,Computer Manufacturing,NICE
+61128c49fc13ae5a9d0003ce,"Cellectar Biosciences, Inc.",NASDAQ,n/a,Health Care,Major Pharmaceuticals,CLRBW
+61128c49fc13ae5a9d0003cf,magicJack VocalTec Ltd,NASDAQ,$111.49M,Public Utilities,Telecommunications Equipment,CALL
+61128c49fc13ae5a9d0003d0,Vanguard Short-Term Corporate Bond ETF,NASDAQ,$19.14B,n/a,n/a,VCSH
+61128c49fc13ae5a9d0003d1,"Entergy Mississippi, Inc.",NYSE,n/a,Public Utilities,Electric Utilities: Central,EMP
+61128c49fc13ae5a9d0003d2,Medley LLC,NYSE,n/a,Finance,Investment Managers,MDLQ
+61128c49fc13ae5a9d0003d3,iShares MSCI Emerging Markets Asia Index Fund,NASDAQ,$356.59M,n/a,n/a,EEMA
+61128c49fc13ae5a9d0003d4,"Jack Henry & Associates, Inc.",NASDAQ,$8.14B,Technology,EDP Services,JKHY
+61128c49fc13ae5a9d0003d5,"Maui Land & Pineapple Company, Inc.",NYSE,$386.9M,Finance,Real Estate,MLP
+61128c49fc13ae5a9d0003d6,Omnicom Group Inc.,NYSE,$19.39B,Technology,Advertising,OMC
+61128c49fc13ae5a9d0003d7,"MVC Capital, Inc.",NYSE,$219.02M,n/a,n/a,MVC
+61128c49fc13ae5a9d0003d8,"Proteon Therapeutics, Inc.",NASDAQ,$20.13M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),PRTO
+61128c49fc13ae5a9d0003d9,Cincinnati Bell Inc,NYSE,n/a,n/a,n/a,CBB^B
+61128c49fc13ae5a9d0003da,"Echo Global Logistics, Inc.",NASDAQ,$594.58M,Transportation,Oil Refining/Marketing,ECHO
+61128c49fc13ae5a9d0003db,Aptevo Therapeutics Inc.,NASDAQ,$43.25M,Health Care,Major Pharmaceuticals,APVO
+61128c49fc13ae5a9d0003dc,Federal Agricultural Mortgage Corporation,NYSE,n/a,n/a,n/a,AGM^B
+61128c49fc13ae5a9d0003dd,EVINE Live Inc.,NASDAQ,$67.58M,Consumer Services,Catalog/Specialty Distribution,EVLV
+61128c49fc13ae5a9d0003de,"CDK Global, Inc.",NASDAQ,$8.96B,Miscellaneous,Business Services,CDK
+61128c49fc13ae5a9d0003df,"Sykes Enterprises, Incorporated",NASDAQ,$1.43B,Technology,EDP Services,SYKE
+61128c49fc13ae5a9d0003e0,VTTI Energy Partners LP,NYSE,$893.84M,Energy,Oil Refining/Marketing,VTTI
+61128c49fc13ae5a9d0003e1,"Torchlight Energy Resources, Inc.",NASDAQ,$93.58M,Energy,Oil & Gas Production,TRCH
+61128c49fc13ae5a9d0003e2,Alpine Global Dynamic Dividend Fund,NYSE,$128.88M,n/a,n/a,AGD
+61128c49fc13ae5a9d0003e3,Gencor Industries Inc.,NASDAQ,$234.63M,Capital Goods,Construction/Ag Equipment/Trucks,GENC
+61128c49fc13ae5a9d0003e4,Saban Capital Acquisition Corp.,NASDAQ,n/a,n/a,n/a,SCACU
+61128c49fc13ae5a9d0003e5,Security National Financial Corporation,NASDAQ,$101.28M,Finance,Finance: Consumer Services,SNFCA
+61128c49fc13ae5a9d0003e6,"Covenant Transportation Group, Inc.",NASDAQ,$342.25M,Transportation,Trucking Freight/Courier Services,CVTI
+61128c49fc13ae5a9d0003e7,Avadel Pharmaceuticals plc,NASDAQ,$439.45M,Health Care,Major Pharmaceuticals,AVDL
+61128c49fc13ae5a9d0003e8,Blackrock Muni New York Intermediate Duration Fund Inc,NYSE,$58.47M,n/a,n/a,MNE
+61128c49fc13ae5a9d0003e9,VEREIT Inc.,NYSE,n/a,n/a,n/a,VER^F
+61128c49fc13ae5a9d0003ea,Univest Corporation of Pennsylvania,NASDAQ,$793.18M,Finance,Major Banks,UVSP
+61128c49fc13ae5a9d0003eb,PCSB Financial Corporation,NASDAQ,$324.79M,Finance,Banks,PCSB
+61128c49fc13ae5a9d0003ec,"Willdan Group, Inc.",NASDAQ,$256.36M,Consumer Services,Military/Government/Technical,WLDN
+61128c49fc13ae5a9d0003ed,"Ironwood Pharmaceuticals, Inc.",NASDAQ,$2.61B,Health Care,Major Pharmaceuticals,IRWD
+61128c49fc13ae5a9d0003ee,KKR & Co. L.P.,NYSE,n/a,n/a,n/a,KKR^B
+61128c49fc13ae5a9d0003ef,AVX Corporation,NYSE,$2.71B,Capital Goods,Electrical Products,AVX
+61128c49fc13ae5a9d0003f0,Zix Corporation,NASDAQ,$315.81M,Technology,EDP Services,ZIXI
+61128c49fc13ae5a9d0003f1,"General American Investors, Inc.",NYSE,n/a,n/a,n/a,GAM^B
+61128c49fc13ae5a9d0003f2,Nuveen Dow 30SM Dynamic Overwrite Fund,NYSE,$592.88M,n/a,n/a,DIAX
+61128c49fc13ae5a9d0003f3,Yamana Gold Inc.,NYSE,$2.32B,Basic Industries,Precious Metals,AUY
+61128c49fc13ae5a9d0003f4,Teledyne Technologies Incorporated,NYSE,$4.62B,Capital Goods,Industrial Machinery/Components,TDY
+61128c49fc13ae5a9d0003f5,"Baidu, Inc.",NASDAQ,$60.38B,Technology,"Computer Software: Programming, Data Processing",BIDU
+61128c49fc13ae5a9d0003f6,"Champions Oncology, Inc.",NASDAQ,$27.34M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),CSBR
+61128c49fc13ae5a9d0003f7,Signature Bank,NASDAQ,n/a,Finance,Major Banks,SBNYW
+61128c49fc13ae5a9d0003f8,Annaly Capital Management Inc,NYSE,n/a,n/a,n/a,NLY^D
+61128c49fc13ae5a9d0003f9,OM Asset Management plc,NYSE,$1.64B,Finance,Investment Managers,OMAM
+61128c49fc13ae5a9d0003fa,"Hologic, Inc.",NASDAQ,$12.41B,Health Care,Medical Electronics,HOLX
+61128c49fc13ae5a9d0003fb,First Trust SSI Strategic Convertible Securities ETF,NASDAQ,$38.77M,n/a,n/a,FCVT
+61128c49fc13ae5a9d0003fc,MEDIFAST INC,NYSE,$505.59M,Consumer Non-Durables,Packaged Foods,MED
+61128c49fc13ae5a9d0003fd,Synovus Financial Corp.,NYSE,$5.32B,Finance,Major Banks,SNV
+61128c49fc13ae5a9d0003fe,Advance Auto Parts Inc,NYSE,$9.61B,Consumer Services,Other Specialty Stores,AAP
+61128c49fc13ae5a9d0003ff,"Grupo Aeroportuario del Sureste, S.A. de C.V.",NYSE,$6.13B,Transportation,Aerospace,ASR
+61128c49fc13ae5a9d000400,Liberty Media Corporation,NASDAQ,n/a,Consumer Services,Broadcasting,LSXMB
+61128c49fc13ae5a9d000401,"Level 3 Communications, Inc.",NYSE,$22.42B,Public Utilities,Telecommunications Equipment,LVLT
+61128c49fc13ae5a9d000402,TravelCenters of America LLC,NASDAQ,n/a,Consumer Durables,Automotive Aftermarket,TANNL
+61128c49fc13ae5a9d000403,"Fenix Parts, Inc.",NASDAQ,$29.61M,Consumer Services,Motor Vehicles,FENX
+61128c49fc13ae5a9d000404,"Clean Harbors, Inc.",NYSE,$3.24B,Basic Industries,Environmental Services,CLH
+61128c49fc13ae5a9d000405,Regal Entertainment Group,NYSE,$3.36B,Consumer Services,Movies/Entertainment,RGC
+61128c49fc13ae5a9d000406,"Methode Electronics, Inc.",NYSE,$1.5B,Capital Goods,Electrical Products,MEI
+61128c49fc13ae5a9d000407,"Virtus Investment Partners, Inc.",NASDAQ,n/a,Finance,Investment Managers,VRTSP
+61128c49fc13ae5a9d000408,"Power Integrations, Inc.",NASDAQ,$1.89B,Technology,Semiconductors,POWI
+61128c49fc13ae5a9d000409,"Stoneridge, Inc.",NYSE,$411.46M,Capital Goods,Auto Parts:O.E.M.,SRI
+61128c49fc13ae5a9d00040a,"TerraForm Power, Inc.",NASDAQ,$1.71B,Public Utilities,Electric Utilities: Central,TERP
+61128c49fc13ae5a9d00040b,"1-800 FLOWERS.COM, Inc.",NASDAQ,$620.68M,Consumer Services,Other Specialty Stores,FLWS
+61128c49fc13ae5a9d00040c,"Jamba, Inc.",NASDAQ,$107.46M,Consumer Services,Restaurants,JMBA
+61128c49fc13ae5a9d00040d,Hersha Hospitality Trust,NYSE,n/a,n/a,n/a,HT^D
+61128c49fc13ae5a9d00040e,"Advanced Disposal Services, Inc.",NYSE,$2.1B,Public Utilities,Environmental Services,ADSW
+61128c49fc13ae5a9d00040f,Arch Capital Group Ltd.,NASDAQ,n/a,Finance,Property-Casualty Insurers,ACGLP
+61128c49fc13ae5a9d000410,Allegiant Travel Company,NASDAQ,$2.38B,Transportation,Air Freight/Delivery Services,ALGT
+61128c49fc13ae5a9d000411,M&T Bank Corporation,NYSE,n/a,n/a,n/a,MTB.WS
+61128c49fc13ae5a9d000412,Park Electrochemical Corporation,NYSE,$369.08M,Technology,Electrical Products,PKE
+61128c49fc13ae5a9d000413,First Trust Brazil AlphaDEX Fund,NASDAQ,$25.39M,n/a,n/a,FBZ
+61128c49fc13ae5a9d000414,Shopify Inc.,NYSE,$7.35B,Technology,Computer Software: Prepackaged Software,SHOP
+61128c49fc13ae5a9d000415,"MaxLinear, Inc",NYSE,$1.82B,Technology,Semiconductors,MXL
+61128c49fc13ae5a9d000416,Virtus Global Multi-Sector Income Fund,NYSE,$194.72M,n/a,n/a,VGI
+61128c49fc13ae5a9d000417,"Tetra Tech, Inc.",NASDAQ,$2.62B,Consumer Services,Military/Government/Technical,TTEK
+61128c49fc13ae5a9d000418,"Boingo Wireless, Inc.",NASDAQ,$631.55M,Consumer Services,Telecommunications Equipment,WIFI
+61128c49fc13ae5a9d000419,Consolidated Water Co. Ltd.,NASDAQ,$184.63M,Public Utilities,Water Supply,CWCO
+61128c49fc13ae5a9d00041a,BlackRock Municipal Target Term Trust Inc. (The),NYSE,$1.65B,n/a,n/a,BTT
+61128c49fc13ae5a9d00041b,Canada Goose Holdings Inc.,NYSE,$475.23M,Consumer Non-Durables,Apparel,GOOS
+61128c49fc13ae5a9d00041c,FlexShares STOXX Global ESG Impact Index Fund,NASDAQ,$8.61M,n/a,n/a,ESGG
+61128c49fc13ae5a9d00041d,"Manitowoc Company, Inc. (The)",NYSE,$836.2M,Capital Goods,Construction/Ag Equipment/Trucks,MTW
+61128c49fc13ae5a9d00041e,iShares 0-5 Year Investment Grade Corporate Bond ETF,NASDAQ,$437.26M,n/a,n/a,SLQD
+61128c49fc13ae5a9d00041f,"CVR Refining, LP",NYSE,$1.39B,Energy,Integrated oil Companies,CVRR
+61128c49fc13ae5a9d000420,"QEP Resources, Inc.",NYSE,$2.18B,Energy,Oil & Gas Production,QEP
+61128c49fc13ae5a9d000421,AdvanSix Inc.,NYSE,$897.42M,Basic Industries,Major Chemicals,ASIX
+61128c49fc13ae5a9d000422,Vanguard Total International Bond ETF,NASDAQ,$7.54B,n/a,n/a,BNDX
+61128c49fc13ae5a9d000423,"Donegal Group, Inc.",NASDAQ,$436.92M,Finance,Property-Casualty Insurers,DGICA
+61128c49fc13ae5a9d000424,John Hancock Hedged Equity & Income Fund,NYSE,$206.26M,n/a,n/a,HEQ
+61128c49fc13ae5a9d000425,iShares MSCI Emerging Markets Asia Index Fund,NASDAQ,$356.59M,n/a,n/a,EEMA
+61128c49fc13ae5a9d000426,Dividend and Income Fund,NYSE,$130.45M,n/a,n/a,DNI
+61128c49fc13ae5a9d000427,"Xerium Technologies, Inc.",NYSE,$113.18M,Basic Industries,Textiles,XRM
+61128c49fc13ae5a9d000428,"Prudential Financial, Inc.",NYSE,n/a,Finance,Life Insurance,PFK
+61128c49fc13ae5a9d000429,"Aethlon Medical, Inc.",NASDAQ,$18.56M,Capital Goods,Biotechnology: Laboratory Analytical Instruments,AEMD
+61128c49fc13ae5a9d00042a,"American International Group, Inc.",NYSE,$58.82B,Finance,Property-Casualty Insurers,AIG
+61128c49fc13ae5a9d00042b,Pimco California Municipal Income Fund II,NYSE,$324.29M,n/a,n/a,PCK
+61128c49fc13ae5a9d00042c,Mattersight Corporation,NASDAQ,$84.98M,Technology,EDP Services,MATR
+61128c49fc13ae5a9d00042d,Invesco Credit Opportunities Fund,NYSE,$888.39M,n/a,n/a,VTA
+61128c49fc13ae5a9d00042e,"Nustar GP Holdings, LLC",NYSE,$1.03B,Energy,Natural Gas Distribution,NSH
+61128c49fc13ae5a9d00042f,"First Industrial Realty Trust, Inc.",NYSE,$3.47B,Consumer Services,Real Estate Investment Trusts,FR
+61128c49fc13ae5a9d000430,"America Movil, S.A.B. de C.V.",NYSE,$51.95B,Public Utilities,Telecommunications Equipment,AMOV
+61128c49fc13ae5a9d000431,Arbutus Biopharma Corporation,NASDAQ,$198.09M,Health Care,Major Pharmaceuticals,ABUS
+61128c49fc13ae5a9d000432,Burcon NutraScience Corp,NASDAQ,$41.23M,Consumer Non-Durables,Packaged Foods,BUR
+61128c49fc13ae5a9d000433,Belmond Ltd.,NYSE,$1.35B,Consumer Services,Hotels/Resorts,BEL
+61128c4afc13ae5a9d000434,Technical Communications Corporation,NASDAQ,$7.36M,Technology,Radio And Television Broadcasting And Communications Equipment,TCCO
+61128c4afc13ae5a9d000435,"Live Nation Entertainment, Inc.",NYSE,$7.49B,Consumer Services,Services-Misc. Amusement & Recreation,LYV
+61128c4afc13ae5a9d000436,"WPX Energy, Inc.",NYSE,$3.64B,Energy,Oil & Gas Production,WPX
+61128c4afc13ae5a9d000437,BlackRock Capital Investment Corporation,NASDAQ,$544.07M,n/a,n/a,BKCC
+61128c4afc13ae5a9d000438,Envision Healthcare Corporation,NYSE,$6.89B,Health Care,Medical/Nursing Services,EVHC
+61128c4afc13ae5a9d000439,"Best Buy Co., Inc.",NYSE,$16.97B,Consumer Services,Consumer Electronics/Video Chains,BBY
+61128c4afc13ae5a9d00043a,ALPS/Dorsey Wright Sector Momentum ETF,NASDAQ,$6.79M,n/a,n/a,SWIN
+61128c4afc13ae5a9d00043b,Eaton Vance High Income 2021 Target Term Trust,NYSE,$216.11M,n/a,n/a,EHT
+61128c4afc13ae5a9d00043c,"Aevi Genomic Medicine, Inc.",NASDAQ,$46.76M,Health Care,Biotechnology: Biological Products (No Diagnostic Substances),GNMX
+61128c4afc13ae5a9d00043d,"Zimmer Biomet Holdings, Inc.",NYSE,$25.39B,Health Care,Industrial Specialties,ZBH
+61128c4afc13ae5a9d00043e,MDC Partners Inc.,NASDAQ,$436.93M,Technology,Advertising,MDCA
+61128c4afc13ae5a9d00043f,Otelco Inc.,NASDAQ,$26.61M,Public Utilities,Telecommunications Equipment,OTEL
+61128c4afc13ae5a9d000440,Alere Inc.,NYSE,$4.39B,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic Substances,ALR
+61128c4afc13ae5a9d000441,"Marsh & McLennan Companies, Inc.",NYSE,$41.27B,Finance,Specialty Insurers,MMC
+61128c4afc13ae5a9d000442,Stone Harbor Emerging Markets Total Income Fund,NYSE,$155.93M,n/a,n/a,EDI
+61128c4afc13ae5a9d000443,"AmTrust Financial Services, Inc.",NYSE,n/a,n/a,n/a,AFSI^D
+61128c4afc13ae5a9d000444,Nordic American Offshore Ltd,NYSE,$73.14M,Transportation,Marine Transportation,NAO
+61128c4afc13ae5a9d000445,"Meridian Waste Solutions, Inc",NASDAQ,n/a,Basic Industries,Miscellaneous,MRDNW
+61128c4afc13ae5a9d000446,EXCO Resources NL,NYSE,$79.36M,Energy,Oil & Gas Production,XCO
+61128c4afc13ae5a9d000447,VEREIT Inc.,NYSE,$8.15B,Consumer Services,Real Estate Investment Trusts,VER
+61128c4afc13ae5a9d000448,"Veritone, Inc.",NASDAQ,$167.67M,Technology,EDP Services,VERI
+61128c4afc13ae5a9d000449,"Fulgent Genetics, Inc.",NASDAQ,$92.71M,Health Care,Medical Specialities,FLGT
+61128c4afc13ae5a9d00044a,"Dycom Industries, Inc.",NYSE,$2.77B,Basic Industries,Water Supply,DY
+61128c4afc13ae5a9d00044b,"Iteris, Inc.",NASDAQ,$182.94M,Consumer Durables,Telecommunications Equipment,ITI
