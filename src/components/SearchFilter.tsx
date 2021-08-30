@@ -2,19 +2,13 @@ import React from 'react';
 /** @jsxImportSource @emotion/react */
 import {css} from '@emotion/react';
 import { useState } from 'react';
-
-interface filterParam {
-    field: string
-    text: string
-}
+import { searchValues } from '../utils/interfaces';
 
 interface Props {
-    onChangeText: (arg: string)=>void;
-    onChangeCombo: (arg: string)=>void;
-    onSearch: (arg: filterParam)=>void;
+    onSearch: (arg: searchValues)=>void;
 }
 
-function SearchFilter({onChangeText, onChangeCombo, onSearch}: Props){
+function SearchFilter({onSearch}: Props){
     const options = [
         {label: 'First Name', value: 'first_name'},
         {label: 'Last Name', value: 'last_name'},

@@ -1,8 +1,8 @@
 import React from 'react';
-import {EmployeeList, SearchFilter} from '../components/index';
 /** @jsxImportSource @emotion/react */
 import {css} from '@emotion/react';
 import { useState } from 'react';
+import {SearchFilterContainer, EmployeeListContainer} from '../containers/index';
 
 interface filterParam {
     field: string
@@ -14,8 +14,6 @@ function EmployeeMng(){
         field: '',
         text: ''
     });
-    const onChangeText = (text: string)=> setFilter({...filter, text});
-    const onChangeCombo = (field: string)=> setFilter({...filter, field});
     const onSearchClick = (param: filterParam)=>{
         setFilter({...param});
     } 
@@ -23,9 +21,9 @@ function EmployeeMng(){
     return (
         <div css={style}>
             <div className='wrapper'>
-                <SearchFilter onSearch={onSearchClick} onChangeText={onChangeText} onChangeCombo={onChangeCombo}></SearchFilter>
+                <SearchFilterContainer></SearchFilterContainer>
                 <div className='emp-box'>
-                    <EmployeeList filter={filter}></EmployeeList>
+                    <EmployeeListContainer></EmployeeListContainer>
                 </div>
             </div>
         </div>

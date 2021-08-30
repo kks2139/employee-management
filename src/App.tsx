@@ -2,12 +2,12 @@ import React from 'react';
 /** @jsxImportSource @emotion/react */
 import {css} from '@emotion/react';
 import './Common.scss';
-import EmloyeeMgt from './pages/EmployeeMng';
+import {EmployeePage} from './pages/index';
 
 function App() {
   return (
     <div css={style}>
-      <EmloyeeMgt></EmloyeeMgt>
+      <EmployeePage></EmployeePage>
     </div>
   );
 }

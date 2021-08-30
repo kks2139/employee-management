@@ -4,6 +4,7 @@ import {css} from '@emotion/react';
 import { useQuery, gql } from '@apollo/client';
 import { useEffect } from 'react';
 import { Loading } from './index';
+import { searchValues } from '../utils/interfaces';
 
 
 interface employee {
@@ -18,16 +19,12 @@ interface employee {
     salary_year: number
     avatar: string
 }
-interface employeeVar {
-    field: string
-    text: string
-}
 interface employeeData {
     employees: employee[]
 }
 
 interface Props {
-    filter: employeeVar
+    filter: searchValues
 }
 
 function EmployeeList({filter}: Props){
@@ -52,7 +49,7 @@ function EmployeeList({filter}: Props){
     `;
 
     // useQuery 제네릭 인자1 = data, 인자2 = variables(넘기는 파라미터값)
-    const {loading, error, data, refetch} = useQuery<employeeData, employeeVar>(
+    const {loading, error, data, refetch} = useQuery<employeeData, searchValues>(
         getEmpolyeeList,
         {variables: {field, text}}
     );

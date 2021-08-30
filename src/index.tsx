@@ -5,7 +5,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { ApolloProvider } from '@apollo/client';
 import { ApolloClient, InMemoryCache } from '@apollo/client';
-
+import {Provider} from 'react-redux';
+import {createStore} from 'redux';
+import rootReducer from './redux-modules/index';
 
 
 const client = new ApolloClient({
@@ -13,10 +15,14 @@ const client = new ApolloClient({
   cache: new InMemoryCache()
 });
 
+const store = createStore(rootReducer);
+
 ReactDOM.render(
   <React.StrictMode>
     <ApolloProvider client={client}>
-      <App />
+      <Provider store={store}>
+        <App />
+      </Provider>
     </ApolloProvider>
   </React.StrictMode>,
   document.getElementById('root')
