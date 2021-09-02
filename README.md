@@ -1,6 +1,6 @@
 # employee-management
 
-### Apollo 와 GraphQL 을 사용한 직원관리 페이지 구현하기!
+### (☞ﾟヮﾟ)☞  Apollo 와 GraphQL 을 사용한 직원관리 페이지 구현하기!
 
 -----
 
