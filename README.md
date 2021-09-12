@@ -20,3 +20,8 @@
     
     Express
     
+### <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f5a5.png" width=21 height=21> 화면구성
+
+    1. 직원 목록
+    
+    2. 직원 상세 정보
